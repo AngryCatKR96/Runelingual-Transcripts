@@ -51,7 +51,7 @@ A bottle of Khazard's worst brew.	Khazard(카자드)가 빚은 최악의 술 한
 Can only be fired from yew, magic, dark or twisted bows.	주목 활, 마법 활, 어둠의 활, 뒤틀린 활로만 쏠 수 있다.	examine	item	Ice arrows
 A lever to open something perhaps?	무언가를 여는 레버일까?	examine	item	Lever
 The power in this staff causes it to vibrate gently.	지팡이에 깃든 힘 때문에 살짝 떨린다.	examine	item	Staff of armadyl
-It catches the light! (Quick access into the Temple of Ikov).	빛을 받아 반짝인다! (Temple of Ikov(이코브 사원)로 빠르게 들어갈 수 있다).	examine	item	Shiny key
+It catches the light! (Quick access into the Temple of Ikov).	빛을 받아 반짝인다! (Temple of Ikov(이코브 사원)으로 빠르게 들어갈 수 있다).	examine	item	Shiny key
 An amulet made by Lucien.	Lucien(루시엔)이 만든 아뮬렛이다.	examine	item	Pendant of lucien
 Worn by followers of Armadyl.	Armadyl(아마딜)의 추종자들이 착용한다.	examine	item	Armadyl pendant
 Magic boots that make you lighter than normal.	몸을 평소보다 가볍게 해 주는 마법 장화다.	examine	item	Boots of lightness
@@ -753,7 +753,7 @@ Plans of a technical nature.	기술적인 내용의 설계도다.	examine	item	T
 The most delicious of pineapples.	파인애플 중에서 가장 맛있는 파인애플이다.	examine	item	Tenti pineapple
 A key to the chest in Captain Siad's room (Used in the Tourist Trap quest).	Captain Siad(시아드 대장)의 방에 있는 상자 열쇠다 (Tourist Trap(관광객 함정) 퀘스트에 사용).	examine	item	Bedabin key
 A prototype dart tip - it looks deadly.	시제품 다트 촉이다 - 치명적으로 보인다.	examine	item	Prototype dart tip
-Allows you to pass through the Shantay pass into the Kharid Desert.	Shantay pass(샨테이 통행로)를 지나 Kharid Desert(카리드 사막)로 들어갈 수 있게 해 준다.	examine	item	Shantay pass
+Allows you to pass through the Shantay pass into the Kharid Desert.	Shantay pass(샨테이 통행로)를 지나 Kharid Desert(카리드 사막)으로 들어갈 수 있게 해 준다.	examine	item	Shantay pass
 Looks like a plain rock, must have some ore in it?	평범한 바위처럼 보이는데, 안에 광석이 좀 있지 않을까?	examine	item	Rock
 A Tourist's Guide To Ardougne.	Ardougne(아르둔) 관광 안내서다.	examine	item	Guide book
 The Rantuki tribe's totem.	Rantuki(란투키) 부족의 토템이다.	examine	item	Totem
@@ -1205,7 +1205,7 @@ A deadly poisoned dart with a black tip.	끝이 흑철로 된 치명적인 독 �
 A set of fighting claws.	격투용 클로 한 벌이다.	examine	item	Bronze claws
 The combination to Burthorpe Castle's equipment room.	Burthorpe Castle(버소프 성) 장비실의 조합 번호다.	examine	item	Combination
 The guard wrote the IOU on the back of some paper.	경비병이 종이 뒷면에 써 준 차용증이다.	examine	item	Iou
-This map shows the secret way up to Death Plateau.	Death Plateau(죽음의 고원)로 올라가는 비밀 통로가 그려진 지도다.	examine	item	Secret way map
+This map shows the secret way up to Death Plateau.	Death Plateau(죽음의 고원)으로 올라가는 비밀 통로가 그려진 지도다.	examine	item	Secret way map
 Boots made for climbing.	등반용으로 만든 장화다.	examine	item	Climbing boots
 Climbing boots with spikes.	징이 박힌 등반화다.	examine	item	Spiked boots
 Place on the stone mechanism in the right order to open the door.	stone mechanism(돌 장치)에 올바른 순서로 올려놓으면 문이 열린다.	examine	item	Stone ball
@@ -1267,7 +1267,7 @@ An adamant halberd.	adamant halberd(아다만트 할버드)다.	examine	item	Ada
 A rune halberd.	rune halberd(룬 할버드)다.	examine	item	Rune halberd
 A dragon halberd.	dragon halberd(드래곤 할버드)다.	examine	item	Dragon halberd
 A summons from King Lathas.	King Lathas(라타스 왕)의 소환장이다.	examine	item	King's message
-A letter for King Lathas from Lord Iorwerth.	Lord Iorwerth(이오르워스 경)가 King Lathas(라타스 왕)에게 보내는 편지다.	examine	item	Iorwerth's message
+A letter for King Lathas from Lord Iorwerth.	Lord Iorwerth(이오르워스 경)이 King Lathas(라타스 왕)에게 보내는 편지다.	examine	item	Iorwerth's message
 Lord Iorwerth's crystal pendant.	Lord Iorwerth(이오르워스 경)의 crystal pendant(크리스탈 펜던트)다.	examine	item	Crystal pendant
 A piece of sulphur formation.	유황 결정 한 조각이다.	examine	item	Sulphur
 Some limestone.	석회암이다.	examine	item	Limestone
@@ -1596,8 +1596,8 @@ A silver lightning conductor.	은으로 만든 피뢰침이다.	examine	item	Con
 The Ring of Charos.	Ring of Charos(카로스의 반지)다.	examine	item	Ring of charos
 A book.	책이다.	examine	item	Journal
 A letter, clearly hastily written.	몹시 서둘러 쓴 게 분명한 편지다.	examine	item	Letter
-This consecration seed looks grey and dead.	이 consecration seed(축성의 씨앗)는 잿빛으로 죽어 있는 것 같다.	examine	item	Consecration seed
-This consecration seed glows with a warm light.	이 consecration seed(축성의 씨앗)는 따뜻한 빛을 내뿜는다.	examine	item	Consecration seed
+This consecration seed looks grey and dead.	이 consecration seed(축성의 씨앗)은 잿빛으로 죽어 있는 것 같다.	examine	item	Consecration seed
+This consecration seed glows with a warm light.	이 consecration seed(축성의 씨앗)은 따뜻한 빛을 내뿜는다.	examine	item	Consecration seed
 A seed to be sung into the finest crystal weapons.	노래를 불러 최상급 크리스탈 무기로 만들 씨앗이다.	examine	item	Crystal weapon seed
 A book on Cadarn clan history.	Cadarn(카다른) 부족의 역사를 다룬 책이다.	examine	item	Cadarn lineage
 Elf crystal.	엘프 크리스탈이다.	examine	item	Elf crystal
@@ -1647,8 +1647,8 @@ It's a bedsheet.	bedsheet(침대 시트)다.	examine	item	Bedsheet
 It's an ectoplasm-covered bedsheet.	엑토플라즘으로 뒤덮인 bedsheet(침대 시트)다.	examine	item	Bedsheet
 It's a bucket of ectoplasm.	엑토플라즘이 담긴 양동이다.	examine	item	Bucket of slime
 This raw beef is rancid.	이 raw beef(날 소고기)는 상했다.	examine	item	Raw beef
-This raw chicken is rancid.	이 raw chicken(날 닭고기)은 상했다.	examine	item	Raw chicken
-This cooked chicken looks disgusting.	이 cooked chicken(익힌 닭고기)은 역겨워 보인다.	examine	item	Cooked chicken
+This raw chicken is rancid.	이 raw chicken(날 닭고기)는 상했다.	examine	item	Raw chicken
+This cooked chicken looks disgusting.	이 cooked chicken(익힌 닭고기)는 역겨워 보인다.	examine	item	Cooked chicken
 I wouldn't eat that if I were you.	내가 너라면 그건 안 먹겠다.	examine	item	Cooked meat
 She's a member of Human Against Monsters.	Human Against Monsters(몬스터에 맞서는 인간)의 여성 단원이다.	examine	item	Female h.a.m.
 He's a member of Human Against Monsters.	Human Against Monsters(몬스터에 맞서는 인간)의 남성 단원이다.	examine	item	Male h.a.m.
@@ -2244,9 +2244,9 @@ This keg contains 4 pints of mature Cider.	이 작은 통에는 숙성된 Cider(
 I can weave this to make sacks.	이걸 엮어서 자루를 만들 수 있다.	examine	item	Jute fibre
 A branch from a willow tree.	willow tree(버드나무)의 나뭇가지다.	examine	item	Willow branch
 A vial filled with coconut milk	coconut milk(코코넛 밀크)가 든 약병이다.	examine	item	Coconut milk
-A vial of coconut milk and Cactus spine.	coconut milk(코코넛 밀크)와 Cactus spine(선인장 가시)이 든 약병이다.	examine	item	Weapon poison+ (unf)
+A vial of coconut milk and Cactus spine.	coconut milk(코코넛 밀크)와 Cactus spine(선인장 가시)가 든 약병이다.	examine	item	Weapon poison+ (unf)
 A vial of extra strong weapon poison, for spears and daggers.	창과 단검에 바르는 매우 강한 무기용 독이 든 약병이다.	examine	item	Weapon poison(+)
-A vial of coconut milk and Deadly Nightshade.	coconut milk(코코넛 밀크)와 Deadly Nightshade(맹독 까마중)가 든 약병이다.	examine	item	Weapon poison++ (unf)
+A vial of coconut milk and Deadly Nightshade.	coconut milk(코코넛 밀크)와 Deadly Nightshade(맹독 까마중)이 든 약병이다.	examine	item	Weapon poison++ (unf)
 A vial of super strong weapon poison, for spears and daggers.	창과 단검에 바르는 초강력 무기용 독이 든 약병이다.	examine	item	Weapon poison(++)
 A vial of coconut milk and Toadflax.	coconut milk(코코넛 밀크)와 Toadflax(해란초)가 든 약병이다.	examine	item	Antidote+ (unf)
 4 doses of extra strong antipoison potion.	매우 강한 해독제 4회분이다.	examine	item	Antidote+(4)
@@ -2268,7 +2268,7 @@ A juicy watermelon.	즙이 많은 watermelon(수박)이다.	examine	item	Waterme
 A slice of watermelon.	watermelon(수박) 한 조각이다.	examine	item	Watermelon slice
 Raw sweetcorn.	익히지 않은 sweetcorn(옥수수)이다.	examine	item	Sweetcorn
 Delicious cooked sweetcorn.	맛있게 익힌 sweetcorn(옥수수)이다.	examine	item	Cooked sweetcorn
-This sweetcorn has been cooked for too long.	이 sweetcorn(옥수수)은 너무 오래 익혔다.	examine	item	Burnt sweetcorn
+This sweetcorn has been cooked for too long.	이 sweetcorn(옥수수)는 너무 오래 익혔다.	examine	item	Burnt sweetcorn
 A bucket of apple mush.	apple mush(으깬 사과) 한 양동이다.	examine	item	Apple mush
 A handful of Hammerstone Hops.	Hammerstone Hops(해머스톤 홉) 한 줌이다.	examine	item	Hammerstone hops
 A handful of Asgarnian Hops.	Asgarnian Hops(아스가르니아 홉) 한 줌이다.	examine	item	Asgarnian hops
@@ -2363,10 +2363,10 @@ Stylish leg armour for rangers with a lingering smell of raw fish...	날생선 �
 Make your foes cower by wearing a skull as a helmet!	해골을 투구로 써서 적을 벌벌 떨게 하라!	examine	item	Skeletal helm
 The bones in this armour seem to vibrate with a magical quality...	이 갑옷의 뼈는 마법의 기운으로 진동하는 것 같다...	examine	item	Skeletal top
 A superior set of strengthened slacks for any self respecting seer.	자존심 있는 예언자라면 누구나 탐낼 강화된 고급 바지다.	examine	item	Skeletal bottoms
-Some finely crafted Fremennik boots, made from spined dagannoth hide.	가시 돋친 dagannoth hide(다간노스 가죽)로 정교하게 만든 Fremennik boots(프레메닉 장화)다.	examine	item	Spined boots
+Some finely crafted Fremennik boots, made from spined dagannoth hide.	가시 돋친 dagannoth hide(다간노스 가죽)으로 정교하게 만든 Fremennik boots(프레메닉 장화)다.	examine	item	Spined boots
 Some Fremennik boots, made from the shards of a rock crab's shell.	rock crab(바위 게) 껍데기 조각으로 만든 Fremennik boots(프레메닉 장화)다.	examine	item	Rock-shell boots
 Some finely crafted Fremennik boots, made from the bones of a wallasalki.	wallasalki(왈라살키)의 뼈로 정교하게 만든 Fremennik boots(프레메닉 장화)다.	examine	item	Skeletal boots
-Fremennik gloves stitched together from spined dagannoth hide.	가시 돋친 dagannoth hide(다간노스 가죽)를 꿰매 만든 Fremennik gloves(프레메닉 장갑)이다.	examine	item	Spined gloves
+Fremennik gloves stitched together from spined dagannoth hide.	가시 돋친 dagannoth hide(다간노스 가죽)을 꿰매 만든 Fremennik gloves(프레메닉 장갑)이다.	examine	item	Spined gloves
 Fremennik gloves stitched together from rock crab shell shards.	rock crab(바위 게) 껍데기 조각을 꿰매 만든 Fremennik gloves(프레메닉 장갑)이다.	examine	item	Rock-shell gloves
 Fremennik gloves stitched together from wallasalki bones fragments.	wallasalki(왈라살키) 뼛조각을 꿰매 만든 Fremennik gloves(프레메닉 장갑)이다.	examine	item	Skeletal gloves
 A sturdy piece of dagannoth hide.	질긴 dagannoth hide(다간노스 가죽) 한 조각이다.	examine	item	Dagannoth hide
@@ -3578,7 +3578,7 @@ The tooth, the whole tooth, and nothing but the tooth.	이빨, 오로지 이빨,
 An untanned piece of Suqah hide.	무두질하지 않은 Suqah(수카) 생가죽 조각이다.	examine	item	Suqah hide
 A piece of Suqah hide that has been expertly tanned into leather.	능숙하게 무두질해 가죽으로 만든 Suqah(수카) 생가죽 조각이다.	examine	item	Suqah leather
 A ground Suqah tooth.	빻은 Suqah(수카) 이빨이다.	examine	item	Ground tooth
-A seal of passage issued by Brundt the Chieftain of the Fremennik.	Fremennik(프레메닉)의 Brundt the Chieftain(족장 브룬트)이 발급한 통행의 인장이다.	examine	item	Seal of passage
+A seal of passage issued by Brundt the Chieftain of the Fremennik.	Fremennik(프레메닉)의 Brundt the Chieftain(족장 브룬트)가 발급한 통행의 인장이다.	examine	item	Seal of passage
 A Moonclan staff.	Moonclan(달 부족) 지팡이다.	examine	item	Lunar staff
 A vessel for holding liquid.	액체를 담는 용기다.	examine	item	Empty vial
 A vessel containing water.	물이 담긴 용기다.	examine	item	Vial of water
@@ -4217,7 +4217,7 @@ Ready to be cut and sewn into armour.	잘라서 꿰매면 갑옷이 된다.	exam
 Smelly yak body armour.	냄새나는 야크 갑옷이다.	examine	item	Yak-hide armour
 Leg protection, made from smelly yak-hide.	냄새나는 야크 가죽으로 만든 다리 보호구다.	examine	item	Yak-hide armour
 A wooden shield with a rope rim.	테두리에 밧줄을 두른 나무 방패다.	examine	item	Neitiznot shield
-A gift from Neitiznot's Burgher.	Neitiznot(네이티즈놋)의 Burgher(시장)가 준 선물이다.	examine	item	Helm of neitiznot
+A gift from Neitiznot's Burgher.	Neitiznot(네이티즈놋)의 Burgher(시장)이 준 선물이다.	examine	item	Helm of neitiznot
 To Ali Morrisane of Al Kharid	Al Kharid(알 카리드)의 Ali Morrisane(알리 모리세인)에게	examine	item	Documents
 The document is stamped with King Gjuki Sorvott IV's royal seal.	이 문서에는 King Gjuki Sorvott IV(규키 소르보트 4세 왕)의 옥새가 찍혀 있다.	examine	item	Royal decree
 An empty tax bag.	빈 세금 자루다.	examine	item	Empty tax bag
@@ -4371,7 +4371,7 @@ Now I can become a potter.	이제 나도 도예가가 될 수 있다.	examine	it
 Must be worn as you enter the game to receive the bonus for that game.	게임에 입장할 때 착용하고 있어야 그 게임의 보너스를 받는다.	examine	item	Castle wars bracelet(3)
 It eases diseases!	질병을 덜어 준다!	examine	item	Inoculation bracelet
 In case of emergency, wear necklace.	비상시에는 목걸이를 착용할 것.	examine	item	Phoenix necklace
-Makes using the Abyss just slightly safer.	Abyss(심연)를 조금이나마 더 안전하게 이용하게 해 준다.	examine	item	Abyssal bracelet(5)
+Makes using the Abyss just slightly safer.	Abyss(심연)을 조금이나마 더 안전하게 이용하게 해 준다.	examine	item	Abyssal bracelet(5)
 This will help me travel.	이걸로 여행을 편하게 할 수 있다.	examine	item	Skills necklace(4)
 You will need to recharge the necklace at the Legends Guild.	Legends Guild(전설의 길드)에서 목걸이를 재충전해야 한다.	examine	item	Skills necklace
 A handy way to get around.	돌아다니기에 편리한 수단이다.	examine	item	Combat bracelet(4)
@@ -4853,7 +4853,7 @@ Use on an amulet of fury to make it look fancier!	amulet of fury(분노의 아�
 Use on infinity pieces to recolour them!	infinity(무한) 장비에 사용하면 색을 바꿀 수 있다!	examine	item	Dark infinity colour kit
 Use on a dragon square shield to make it look fancier!	dragon square shield(드래곤 사각 방패)에 사용하면 더 화려하게 꾸밀 수 있다!	examine	item	Dragon sq shield ornament kit
 Use on a dragon chainbody to make it look fancier!	dragon chainbody(드래곤 사슬 갑옷)에 사용하면 더 화려하게 꾸밀 수 있다!	examine	item	Dragon chainbody ornament kit
-Use on dragon platelegs or plateskirt to make them look fancier!	dragon platelegs(드래곤 판금 다리 갑옷)나 plateskirt(판금 치마)에 사용하면 더 화려하게 꾸밀 수 있다!	examine	item	Dragon legs/skirt ornament kit
+Use on dragon platelegs or plateskirt to make them look fancier!	dragon platelegs(드래곤 판금 다리 갑옷)이나 plateskirt(판금 치마)에 사용하면 더 화려하게 꾸밀 수 있다!	examine	item	Dragon legs/skirt ornament kit
 Use on a dragon full helm to make it look fancier!	dragon full helm(드래곤 전면 투구)에 사용하면 더 화려하게 꾸밀 수 있다!	examine	item	Dragon full helm ornament kit
 Elementary!	간단한 추리일세!	examine	item	Deerstalker
 A clue suggested by thetoddster!	thetoddster 님이 제안한 단서다!	examine	item	Clue scroll (hard)
@@ -4965,7 +4965,7 @@ A teleport to Senntisten.	Senntisten(센티스텐)으로 가는 순간이동이�
 Use on a Ring of Wealth to imbue the ring.	Ring of Wealth(부의 반지)에 사용하면 반지에 힘을 주입한다.	examine	item	Ring of wealth scroll
 A mysteriously imbued lucky ring.	신비로운 힘이 주입된 행운의 반지다.	examine	item	Ring of wealth (i)
 Use on a Magic shortbow to imbue the bow.	Magic shortbow(마법 짧은 활)에 사용하면 활에 힘을 주입한다.	examine	item	Magic shortbow scroll
-Protects your clue scroll if you die.	죽어도 clue scroll(단서 두루마리)을 지켜 준다.	examine	item	Clue box
+Protects your clue scroll if you die.	죽어도 clue scroll(단서 두루마리)를 지켜 준다.	examine	item	Clue box
 You can store runes in here.	여기에 룬을 보관할 수 있다.	examine	item	Rune pouch
 A box of empty nests.	빈 둥지가 든 상자다.	examine	item	Nest box (empty)
 A box of nests containing seeds.	씨앗이 든 둥지가 담긴 상자다.	examine	item	Nest box (seeds)
@@ -5091,7 +5091,7 @@ A set containing a Bandos dragonhide coif, body, chaps and bracers.	Bandos(반�
 A set containing an Armadyl dragonhide coif, body, chaps and bracers.	Armadyl(아마딜) 용가죽 코이프, 상의, 바지, 브레이서가 든 세트다.	examine	item	Armadyl dragonhide set
 A set containing an ancient dragonhide coif, body, chaps and bracers.	고대 용가죽 코이프, 상의, 바지, 브레이서가 든 세트다.	examine	item	Ancient dragonhide set
 A set containing red, yellow, blue, purple, green and white partyhats.	빨강, 노랑, 파랑, 보라, 초록, 하양 파티 모자가 든 세트다.	examine	item	Partyhat set
-A set containing red, green and blue Halloween masks.	빨강, 초록, 파랑 Halloween masks(할로윈 가면)가 든 세트다.	examine	item	Halloween mask set
+A set containing red, green and blue Halloween masks.	빨강, 초록, 파랑 Halloween masks(할로윈 가면)이 든 세트다.	examine	item	Halloween mask set
 Vacuum proof.	진공청소기에도 끄떡없다.	examine	item	Venenatis spiderling
 I wouldn't want to eat his Porridge.	이 녀석의 죽은 먹고 싶지 않다.	examine	item	Callisto cub
 Only the true lord & king of the lands can lift his burden.	이 땅의 진정한 군주이자 왕만이 그의 짐을 들어 올릴 수 있다.	examine	item	Vet'ion jr.
@@ -5109,7 +5109,7 @@ A pack containing 100 bone crossbow bolts.	bone crossbow bolts(뼈 석궁 볼트
 Ball taken!	공을 가져갔다!	examine	item	Oddskull
 Triggers mutation in a serpentine helm.	serpentine helm(뱀 투구)에 변이를 일으킨다.	examine	item	Tanzanite mutagen
 A shining mask of balance.	빛나는 mask of balance(균형의 가면)이다.	examine	item	Mask of balance
-Use it on a banker or bankbooth to exchange it for 1,000 coins per token.	banker(은행원)나 은행 창구에 사용하면 토큰 1개당 1,000 코인으로 바꿀 수 있다.	examine	item	Platinum token
+Use it on a banker or bankbooth to exchange it for 1,000 coins per token.	banker(은행원)이나 은행 창구에 사용하면 토큰 1개당 1,000 코인으로 바꿀 수 있다.	examine	item	Platinum token
 A disconcertingly rotten egg.	불안할 만큼 썩은 달걀이다.	examine	item	Rotten egg
 A tiger toy.	tiger toy(호랑이 장난감)이다.	examine	item	Tiger toy
 A lion toy.	lion toy(사자 장난감)이다.	examine	item	Lion toy
@@ -5253,7 +5253,7 @@ A handy box for carrying some seeds.	씨앗을 담아 다니기 좋은 상자다
 This will help with farming.	농사에 도움이 될 것이다.	examine	item	Farmer's boro trousers
 This bottle seems to have some old paper inside.	이 병 안에 오래된 종이가 들어 있는 것 같다.	examine	item	Clue bottle (easy)
 Stylish, by gnome child standards.	gnome child(노움 아이) 기준으로는 멋지다.	examine	item	Gnome child hat
-A present from Sir Tiffy to his grandson.	Sir Tiffy(티피 경)가 손자에게 주는 선물이다.	examine	item	Present
+A present from Sir Tiffy to his grandson.	Sir Tiffy(티피 경)이 손자에게 주는 선물이다.	examine	item	Present
 A grape seed for growing in a vinery.	포도밭에서 기르는 포도 씨앗이다.	examine	item	Grape seed
 A card which has magical properties.	마법의 힘이 깃든 카드다.	examine	item	Teleport card
 The legends of RuneScape.	RuneScape(룬스케이프)의 전설들이다.	examine	item	Chronicle
@@ -5306,13 +5306,13 @@ The limbs have been attached to the frame.	틀에 활대를 달았다.	examine	i
 A spring-loaded mechanism.	스프링이 달린 장치다.	examine	item	Ballista spring
 Needs a suitably simian rope.	원숭이다운 줄이 필요하다.	examine	item	Unstrung light ballista
 Smells like the south end of a northbound monkey, because it is.	북쪽으로 가는 원숭이의 남쪽 끝 같은 냄새가 난다. 실제로 그 부위니까.	examine	item	Monkey tail
-A teleport to the Arceuus Library	Arceuus Library(아르세우스 도서관)로 순간이동한다.	examine	item	Arceuus library teleport
-A teleport to Draynor Manor.	Draynor Manor(드레이너 저택)로 순간이동한다.	examine	item	Draynor manor teleport
-A teleport to the Mind Altar.	Mind Altar(정신 제단)로 순간이동한다.	examine	item	Mind altar teleport
+A teleport to the Arceuus Library	Arceuus Library(아르세우스 도서관)으로 순간이동한다.	examine	item	Arceuus library teleport
+A teleport to Draynor Manor.	Draynor Manor(드레이너 저택)으로 순간이동한다.	examine	item	Draynor manor teleport
+A teleport to the Mind Altar.	Mind Altar(정신 제단)으로 순간이동한다.	examine	item	Mind altar teleport
 A teleport to the Salve graveyard.	Salve graveyard(살브 묘지)로 순간이동한다.	examine	item	Salve graveyard teleport
 A teleport to Fenkenstrain's Castle.	Fenkenstrain's Castle(펜켄스트레인의 성)으로 순간이동한다.	examine	item	Fenkenstrain's castle teleport
-A teleport to West Ardougne.	West Ardougne(서 아르둔)로 순간이동한다.	examine	item	West ardougne teleport
-A teleport to Harmony Island.	Harmony Island(하모니 섬)로 순간이동한다.	examine	item	Harmony island teleport
+A teleport to West Ardougne.	West Ardougne(서 아르둔)으로 순간이동한다.	examine	item	West ardougne teleport
+A teleport to Harmony Island.	Harmony Island(하모니 섬)으로 순간이동한다.	examine	item	Harmony island teleport
 A teleport to the Cemetery in level 31 Wilderness.	Wilderness(황야) 31레벨에 있는 Cemetery(공동묘지)로 순간이동한다.	examine	item	Cemetery teleport
 A teleport to the Barrows.	Barrows(배로우즈)로 순간이동한다.	examine	item	Barrows teleport
 A teleport to Ape Atoll.	Ape Atoll(유인원 환초)로 순간이동한다.	examine	item	Ape atoll teleport
@@ -5324,7 +5324,7 @@ The top of a Golovanova fruit - edible once cooked and full of Vitamin G.	Golova
 Mmm half a botanical pie.	음, 식물 파이 반쪽이다.	examine	item	Half a botanical pie
 Mmm botanical pie.	음, 식물 파이다.	examine	item	Botanical pie
 Smells like the north end of a southbound monkey, because it is.	남쪽으로 가는 원숭이의 북쪽 끝 같은 냄새가 난다. 실제로 그 부위니까.	examine	item	Damaged monkey tail
-Configuration details for operating the Lovakengj Minecart Network.	Lovakengj Minecart Network(로바켕기 광차 철도망)를 운행하기 위한 설정 내용이다.	examine	item	Minecart control scroll
+Configuration details for operating the Lovakengj Minecart Network.	Lovakengj Minecart Network(로바켕기 광차 철도망)을 운행하기 위한 설정 내용이다.	examine	item	Minecart control scroll
 Logs cut from a redwood tree.	레드우드 나무에서 벤 통나무다.	examine	item	Redwood logs
 Redwood logs prepared with sacred oil for a funeral pyre.	화장용 장작더미에 쓰도록 성유를 바른 레드우드 통나무다.	examine	item	Redwood pyre logs
 The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar and ancient shards.	Agrith-Naar(아그리스나르)의 피와 고대 조각으로 강화한 마법의 검 'Silverlight(실버라이트)'다.	examine	item	Arclight
@@ -5525,8 +5525,8 @@ Broken torso armour from the order of the Void Knights.	Void Knights(보이드 �
 Broken superior torso armour from the order of the Void Knights.	Void Knights(보이드 기사단)의 망가진 상급 몸통 갑옷이다.	examine	item	Elite void top (broken)
 Broken leg armour from the order of the Void Knights.	Void Knights(보이드 기사단)의 망가진 다리 갑옷이다.	examine	item	Void knight robe (broken)
 Broken superior leg armour from the order of the Void Knights.	Void Knights(보이드 기사단)의 망가진 상급 다리 갑옷이다.	examine	item	Elite void robe (broken)
-A broken mace used by the order of the Void Knights.	Void Knights(보이드 기사단)가 쓰던 망가진 철퇴다.	examine	item	Void knight mace (broken)
-Broken gloves as used by the order of the Void Knights.	Void Knights(보이드 기사단)가 쓰던 망가진 장갑이다.	examine	item	Void knight gloves (broken)
+A broken mace used by the order of the Void Knights.	Void Knights(보이드 기사단)이 쓰던 망가진 철퇴다.	examine	item	Void knight mace (broken)
+Broken gloves as used by the order of the Void Knights.	Void Knights(보이드 기사단)이 쓰던 망가진 장갑이다.	examine	item	Void knight gloves (broken)
 A broken mage helm from the order of the Void Knights.	Void Knights(보이드 기사단)의 망가진 마법사 투구다.	examine	item	Void mage helm (broken)
 A broken ranger helm from the order of the Void Knights.	Void Knights(보이드 기사단)의 망가진 레인저 투구다.	examine	item	Void ranger helm (broken)
 A broken melee helm from the order of the Void Knights.	Void Knights(보이드 기사단)의 망가진 근접 전투 투구다.	examine	item	Void melee helm (broken)
@@ -5771,7 +5771,7 @@ Chocolate, fresh from the walls of Wester Island.	Wester Island(웨스터 섬)�
 Used for making things egg shaped.	물건을 달걀 모양으로 만드는 데 쓴다.	examine	item	Egg mould
 An old and magical staff, now bearing extra enchantment.	오래된 마법 지팡이로, 이제 마법이 한층 더 걸려 있다.	examine	item	Slayer's staff (e)
 The parchment contains a spell invented by Slayer Masters in ancient times.	고대에 Slayer Master(슬레이어 마스터)들이 만든 주문이 적힌 양피지다.	examine	item	Slayer's enchantment
-This scroll sends messages to the client when written on with an enchanted quill. Using a feather on the scroll should transfer its magic!	enchanted quill(마법이 걸린 깃펜)로 글을 쓰면 의뢰인에게 메시지를 보내는 두루마리다. 두루마리에 깃털을 사용하면 마법이 옮겨질 것이다!	examine	item	Enchanted scroll
+This scroll sends messages to the client when written on with an enchanted quill. Using a feather on the scroll should transfer its magic!	enchanted quill(마법이 걸린 깃펜)으로 글을 쓰면 의뢰인에게 메시지를 보내는 두루마리다. 두루마리에 깃털을 사용하면 마법이 옮겨질 것이다!	examine	item	Enchanted scroll
 This quill can send messages from the Enchanted scroll Veos gave me, to his client.	Veos(베오스)가 준 Enchanted scroll(마법이 걸린 두루마리)로 그의 의뢰인에게 메시지를 보낼 수 있는 깃펜이다.	examine	item	Enchanted quill
 Veos' client has requested me to activate this near the Dark Altar.	Veos(베오스)의 의뢰인이 Dark Altar(어둠의 제단) 근처에서 이것을 작동하라고 했다.	examine	item	Mysterious orb
 I love rubbing things!	뭐든 문지르는 게 좋아!	examine	item	Antique lamp
@@ -5809,7 +5809,7 @@ I'm not a huge fan.	딱히 팬은 아니다.	examine	item	Hand fan
 A tiny fish.	아주 작은 물고기다.	examine	item	Minnow
 I can store my teleport scrolls in this.	이 안에 순간이동 두루마리를 보관할 수 있다.	examine	item	Master scroll book (empty)
 Holds all my teleport scrolls.	내 순간이동 두루마리를 전부 담고 있다.	examine	item	Master scroll book
-These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.	Sandstone(사암), Runite(루나이트), Amethyst(자수정)를 캐는 데 도움이 될 것이다. Iron(철), Silver(은), Coal(석탄), Gold(금), Mithril(미스릴), Adamantite(아다만타이트) 채광도 더 잘된다.	examine	item	Expert mining gloves
+These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.	Sandstone(사암), Runite(루나이트), Amethyst(자수정)을 캐는 데 도움이 될 것이다. Iron(철), Silver(은), Coal(석탄), Gold(금), Mithril(미스릴), Adamantite(아다만타이트) 채광도 더 잘된다.	examine	item	Expert mining gloves
 Small brightly coloured tropical fish. Looks tasty.	작고 알록달록한 열대어다. 맛있어 보인다.	examine	item	Karambwanji
 A cape worn by fighters in the Wilderness Wars.	Wilderness Wars(황야 전쟁)의 전사들이 입던 망토다.	examine	item	Wilderness cape
 A very powerful amulet worn by Wilderness Wars champions.	Wilderness Wars(황야 전쟁) 챔피언들이 차던 아주 강력한 아뮬렛이다.	examine	item	Wilderness champion amulet
@@ -5830,10 +5830,10 @@ A proposal from the Varrock sawmill to the Hosidius sawmill.	Varrock(바록) 제
 An agreed and signed proposal between the Varrock and Hosidius sawmills.	Varrock(바록) 제재소와 Hosidius(호시디우스) 제재소가 합의하고 서명한 제안서다.	examine	item	Sawmill agreement
 A lucky charm made out of bone.	뼈로 만든 행운의 부적이다.	examine	item	Bone charm
 Doesn't look pleasant at all.	전혀 기분 좋아 보이지 않는다.	examine	item	Potion of sealegs
-A broken up piece of Iron ore.	Iron ore(철광석)를 깨뜨린 조각이다.	examine	item	Iron ore fragment
-A broken up piece of Silver ore.	Silver ore(은광석)를 깨뜨린 조각이다.	examine	item	Silver ore fragment
+A broken up piece of Iron ore.	Iron ore(철광석)을 깨뜨린 조각이다.	examine	item	Iron ore fragment
+A broken up piece of Silver ore.	Silver ore(은광석)을 깨뜨린 조각이다.	examine	item	Silver ore fragment
 A broken up piece of Coal.	Coal(석탄)을 깨뜨린 조각이다.	examine	item	Coal fragment
-A broken up piece of Gold ore.	Gold ore(금광석)를 깨뜨린 조각이다.	examine	item	Gold ore fragment
+A broken up piece of Gold ore.	Gold ore(금광석)을 깨뜨린 조각이다.	examine	item	Gold ore fragment
 A broken up piece of Mithril ore.	Mithril ore(미스릴 광석)을 깨뜨린 조각이다.	examine	item	Mithril ore fragment
 A broken up piece of Adamantite ore.	Adamantite ore(아다만타이트 광석)을 깨뜨린 조각이다.	examine	item	Adamantite ore fragment
 A broken up piece of Runite ore.	Runite ore(루나이트 광석)을 깨뜨린 조각이다.	examine	item	Runite ore fragment
@@ -5860,7 +5860,7 @@ This fossilised plant leaf belongs in a museum!	이 화석화된 식물 잎은 �
 This fossilised plant belongs in a museum!	이 화석화된 식물은 박물관에 있어야 한다!	examine	item	Fossilised mushroom
 This fossilised tusk belongs in a museum!	이 화석화된 엄니는 박물관에 있어야 한다!	examine	item	Rare fossilised tusk
 One of the ingredients for making ultra compost.	울트라 퇴비를 만드는 재료 중 하나다.	examine	item	Volcanic ash
-Stunned hoop snake appears to be hanging on to its tail.	Stunned hoop snake(기절한 굴렁쇠 뱀)는 제 꼬리를 꽉 물고 있는 것 같다.	examine	item	Hoop snake
+Stunned hoop snake appears to be hanging on to its tail.	Stunned hoop snake(기절한 굴렁쇠 뱀)은 제 꼬리를 꽉 물고 있는 것 같다.	examine	item	Hoop snake
 A Sulliuscep mushroom cap. Edible? Probably...	Sulliuscep(설리어셉) 버섯 갓이다. 먹을 수 있을까? 아마도...	examine	item	Sulliuscep cap
 It's in pretty bad condition, covered in swamp stuff.	늪 찌꺼기로 뒤덮여 상태가 꽤 나쁘다.	examine	item	Archaeologist's diary
 It's unusually large.	유난히 크다.	examine	item	Ancient diary
@@ -5887,7 +5887,7 @@ Mmm mushroom pie.	음, 버섯 파이다.	examine	item	Mushroom pie
 This bowl appears to be full of live fish, and a bit of water.	살아 있는 물고기와 물이 조금 든 그릇이다.	examine	item	Bowl of fish
 Celebrating RuneFest 2017.	RuneFest(룬페스트) 2017을 기념한다.	examine	item	Runefest shield
 An ash covered book containing the secrets required for casting a stronger fertile soil spell.	더 강력한 fertile soil(비옥한 흙) 주문을 시전하는 데 필요한 비밀이 담긴, 재로 덮인 책이다.	examine	item	Ash covered tome
-A note from Death detailing the ghost sightings.	Death(죽음)가 보낸 쪽지로, 유령 목격담이 자세히 적혀 있다.	examine	item	Death note
+A note from Death detailing the ghost sightings.	Death(죽음)이 보낸 쪽지로, 유령 목격담이 자세히 적혀 있다.	examine	item	Death note
 I don't think I'd want to drink this.	이건 마시고 싶지 않다.	examine	item	Murky potion
 A potion that emanates with dark, ghostly power.	어둡고 유령 같은 힘을 내뿜는 물약이다.	examine	item	Spectral potion
 They look and feel un-natural.	보기에도 만져 봐도 부자연스럽다.	examine	item	Tomberries
@@ -6064,19 +6064,19 @@ A solid maple shield.	튼튼한 단풍나무 방패다.	examine	item	Maple shiel
 A solid yew shield.	튼튼한 주목 방패다.	examine	item	Yew shield
 A solid magic wood shield.	튼튼한 마법 나무 방패다.	examine	item	Magic shield
 A solid redwood shield.	튼튼한 레드우드 방패다.	examine	item	Redwood shield
-A solid oaken shield covered in hard leather.	hard leather(경화 가죽)를 씌운 튼튼한 참나무 방패다.	examine	item	Hard leather shield
+A solid oaken shield covered in hard leather.	hard leather(경화 가죽)을 씌운 튼튼한 참나무 방패다.	examine	item	Hard leather shield
 A solid willow shield covered in snakeskin leather.	snakeskin(뱀가죽)을 씌운 튼튼한 버드나무 방패다.	examine	item	Snakeskin shield
-A solid maple shield covered in green dragon leather.	green dragon leather(녹색 용가죽)를 씌운 튼튼한 단풍나무 방패다.	examine	item	Green d'hide shield
-A solid yew shield covered in blue dragon leather.	blue dragon leather(푸른 용가죽)를 씌운 튼튼한 주목 방패다.	examine	item	Blue d'hide shield
-A solid magic wood shield covered in red dragon leather.	red dragon leather(붉은 용가죽)를 씌운 튼튼한 마법 나무 방패다.	examine	item	Red d'hide shield
-A solid redwood shield covered in black dragon leather.	black dragon leather(검은 용가죽)를 씌운 튼튼한 레드우드 방패다.	examine	item	Black d'hide shield
+A solid maple shield covered in green dragon leather.	green dragon leather(녹색 용가죽)을 씌운 튼튼한 단풍나무 방패다.	examine	item	Green d'hide shield
+A solid yew shield covered in blue dragon leather.	blue dragon leather(푸른 용가죽)을 씌운 튼튼한 주목 방패다.	examine	item	Blue d'hide shield
+A solid magic wood shield covered in red dragon leather.	red dragon leather(붉은 용가죽)을 씌운 튼튼한 마법 나무 방패다.	examine	item	Red d'hide shield
+A solid redwood shield covered in black dragon leather.	black dragon leather(검은 용가죽)을 씌운 튼튼한 레드우드 방패다.	examine	item	Black d'hide shield
 'Leather Shields - Resource information flyer' by William the Shield Master	'가죽 방패 - 자원 안내 전단', William the Shield Master(방패 달인 윌리엄) 저	examine	item	Leather shields flyer
 An enhanced weapon from the deep.	심해에서 온 강화된 무기다.	examine	item	Trident of the seas (e)
 An enhanced toxic weapon from the deep.	심해에서 온 강화된 독성 무기다.	examine	item	Trident of the swamp (e)
 A ghastly weapon with evil origins combined with a holy light.	사악한 기원을 지닌 섬뜩한 무기에 신성한 빛이 더해졌다.	examine	item	Staff of light
 A mysterious artifact of ancient times, precious to emblem traders.	고대의 신비한 유물이다. emblem trader(엠블럼 상인)에게 귀한 물건이다.	examine	item	Ancient medallion
 A mysterious artifact of ancient times, very precious to emblem traders.	고대의 신비한 유물이다. emblem trader(엠블럼 상인)에게 아주 귀한 물건이다.	examine	item	Ancient effigy
-A mysterious artifact of ancient times, emblem traders will pay you extremely handsomely for this.	고대의 신비한 유물이다. emblem trader(엠블럼 상인)가 아주 후하게 값을 쳐 줄 것이다.	examine	item	Ancient relic
+A mysterious artifact of ancient times, emblem traders will pay you extremely handsomely for this.	고대의 신비한 유물이다. emblem trader(엠블럼 상인)이 아주 후하게 값을 쳐 줄 것이다.	examine	item	Ancient relic
 There's something strangely familiar about the sword.	이 검에는 묘하게 낯익은 데가 있다.	examine	item	Prop sword
 A critter from the spirit realm.	영혼 세계에서 온 작은 생물이다.	examine	item	Pet corporeal critter
 Not quite so fearsome anymore.	이제는 그렇게 무섭지 않다.	examine	item	Tzrek-zuk
@@ -6275,8 +6275,8 @@ A descendant of the salamander family.	도롱뇽 집안의 후손이다.	examine
 There's something fishy about this...	뭔가 비린내 나게 수상하다...	examine	item	Fish sack
 The henchest tench.	텐치 중의 텐치, 가장 우람한 텐치다.	examine	item	Golden tench
 A decorative heavy barbarian Fishing rod.	장식용 무거운 야만인 Fishing rod(낚싯대)다.	examine	item	Pearl barbarian rod
-Useful for catching salmon or trout while looking a little bit fancy.	살짝 멋을 부리면서 salmon(연어)이나 trout(송어)를 잡기 좋다.	examine	item	Pearl fly fishing rod
-Useful for catching sardine or herring while looking a little bit fancy.	살짝 멋을 부리면서 sardine(정어리)이나 herring(청어)을 잡기 좋다.	examine	item	Pearl fishing rod
+Useful for catching salmon or trout while looking a little bit fancy.	살짝 멋을 부리면서 salmon(연어)나 trout(송어)를 잡기 좋다.	examine	item	Pearl fly fishing rod
+Useful for catching sardine or herring while looking a little bit fancy.	살짝 멋을 부리면서 sardine(정어리)나 herring(청어)를 잡기 좋다.	examine	item	Pearl fishing rod
 A celastrus tree seed has been sown in this plant pot.	이 plant pot(화분)에 celastrus tree(셀라스트루스 나무) 씨앗이 심겨 있다.	examine	item	Celastrus seedling
 A redwood tree seed has been sown in this plant pot.	이 plant pot(화분)에 redwood tree(레드우드 나무) 씨앗이 심겨 있다.	examine	item	Redwood seedling
 A celastrus tree seed has been sown and watered in this plant pot.	이 plant pot(화분)에 celastrus tree(셀라스트루스 나무) 씨앗이 심겨 있고, 물도 주었다.	examine	item	Celastrus seedling (w)
@@ -6294,10 +6294,10 @@ A white lily seed - plant in a flower patch.	white lily seed(백합 씨앗)이�
 A large ripe dragonfruit.	크고 잘 익은 용과다.	examine	item	Dragonfruit
 A fully bloomed White lily.	활짝 핀 White lily(백합)다.	examine	item	White lily
 A length of celastrus wood, ready for fletching.	활 제작에 바로 쓸 수 있는 celastrus(셀라스트루스) 나무 토막이다.	examine	item	Celastrus bark
-A teleport to the Kebos Battlefront.	Kebos Battlefront(케보스 전선)로 가는 순간이동이다.	examine	item	Battlefront teleport
+A teleport to the Kebos Battlefront.	Kebos Battlefront(케보스 전선)으로 가는 순간이동이다.	examine	item	Battlefront teleport
 A pair of heat resistant boots charged with the claw of the ferocious Drake.	흉포한 Drake(드레이크)의 발톱으로 힘을 불어넣은 내열 장화 한 켤레다.	examine	item	Boots of brimstone
 A pair of Devout Boots.	Devout Boots(경건한 장화) 한 켤레다.	examine	item	Devout boots
-The claw of a ferocious drake. They could be combined with the boots of stone.	흉포한 drake(드레이크)의 발톱이다. boots of stone(돌의 장화)과 합칠 수 있을 것 같다.	examine	item	Drake's claw
+The claw of a ferocious drake. They could be combined with the boots of stone.	흉포한 drake(드레이크)의 발톱이다. boots of stone(돌의 장화)와 합칠 수 있을 것 같다.	examine	item	Drake's claw
 The tooth of a ferocious drake. They could be combined with holy sandals.	흉포한 drake(드레이크)의 이빨이다. holy sandals(신성한 샌들)과 합칠 수 있을 것 같다.	examine	item	Drake's tooth
 The item to make into a hasta.	hasta(하스타)로 만들 아이템이다.	examine	item	Broken dragon hasta
 The claw of a ferocious hydra.	흉포한 hydra(히드라)의 발톱이다.	examine	item	Hydra's claw
@@ -6420,14 +6420,14 @@ A torn page detailing the religion of Ranul. Now where is the book?	Ranul(라눌
 A torn page detailing the religion of Ralos. Now where is the book?	Ralos(랄로스) 신앙을 다룬 찢어진 페이지다. 그럼 책은 어디 있지?	examine	item	Tattered sun page
 A torn page detailing the existence of the Forthos Dungeon under Hosidius. Now where is the book?	Hosidius(호시디우스) 지하에 있는 Forthos Dungeon(포르토스 던전)의 존재를 다룬 찢어진 페이지다. 그럼 책은 어디 있지?	examine	item	Tattered temple page
 Knowledge!	지식!	examine	item	Lamp of knowledge
-A giant sac of red spider eggs, hopefully none of them hatch.	빨간 spider eggs(거미 알)가 든 거대한 알주머니다. 하나도 부화하지 않으면 좋겠다.	examine	item	Giant egg sac(full)
-A less giant sac of red spider eggs, hopefully none of them hatch!	조금 덜 거대한, 빨간 spider eggs(거미 알)가 든 알주머니다. 하나도 부화하지 않으면 좋겠다!	examine	item	Giant egg sac
+A giant sac of red spider eggs, hopefully none of them hatch.	빨간 spider eggs(거미 알)이 든 거대한 알주머니다. 하나도 부화하지 않으면 좋겠다.	examine	item	Giant egg sac(full)
+A less giant sac of red spider eggs, hopefully none of them hatch!	조금 덜 거대한, 빨간 spider eggs(거미 알)이 든 알주머니다. 하나도 부화하지 않으면 좋겠다!	examine	item	Giant egg sac
 A creepy mask worn during a blood moon.	blood moon(피의 달)이 뜰 때 쓰는 으스스한 가면이다.	examine	item	Mask of ranul
 Stop staring!	그만 쳐다봐!	examine	item	Jar of eyes
 Not to be confused with a Sarachnis cuddle.	Sarachnis(사라크니스)가 꼭 안아 주는 거랑 헷갈리지 말 것. 이건 곤봉이다.	examine	item	Sarachnis cudgel
 Unlimited charges of some handy spells from your chosen spellbook.	선택한 주문서의 유용한 주문 몇 가지를 무제한으로 쓸 수 있다.	examine	item	Rune pouch
-A crystal acorn has been sown in this plant pot.	이 plant pot(화분)에 crystal acorn(크리스탈 도토리)이 심겨 있다.	examine	item	Crystal seedling
-A crystal acorn has been sown and watered in this plant pot.	이 plant pot(화분)에 crystal acorn(크리스탈 도토리)이 심겨 있고, 물도 주었다.	examine	item	Crystal seedling (w)
+A crystal acorn has been sown in this plant pot.	이 plant pot(화분)에 crystal acorn(크리스탈 도토리)가 심겨 있다.	examine	item	Crystal seedling
+A crystal acorn has been sown and watered in this plant pot.	이 plant pot(화분)에 crystal acorn(크리스탈 도토리)가 심겨 있고, 물도 주었다.	examine	item	Crystal seedling (w)
 This sapling is ready to be replanted in a Crystal tree patch.	Crystal tree patch(크리스탈 나무 밭)에 옮겨 심을 준비가 된 묘목이다.	examine	item	Crystal sapling
 For growing a Crystal tree.	Crystal tree(크리스탈 나무)를 기를 때 쓴다.	examine	item	Crystal acorn
 A set containing dragonstone helmet, platebody, platelegs, boots and gauntlets.	dragonstone(드래곤스톤) 투구, 판금 갑옷, 판금 다리 갑옷, 장화, 건틀릿이 든 세트다.	examine	item	Dragonstone armour set
@@ -6481,11 +6481,11 @@ I need another ingredient to finish this Elder Cadantine potion.	이 Elder Cadan
 An old elven crystal. I can grind it up to get crystal dust.	오래된 엘프 크리스탈이다. 갈아서 crystal dust(크리스탈 가루)를 얻을 수 있다.	examine	item	Crystal
 The dust of a ground elven crystal.	엘프 크리스탈을 갈아 낸 가루다.	examine	item	Crystal dust
 A magical elven potion.	마법의 엘프 물약이다.	examine	item	Inversion potion
-A crystal seed that was given to Baxtorian by Lord Amlodd. It looks grey and dead.	Lord Amlodd(암로드 경)가 Baxtorian(백스토리안)에게 준 crystal seed(크리스탈 씨앗)이다. 잿빛인 데다 죽은 것 같다.	examine	item	Crystal seed
-A crystal seed that was given to Baxtorian by Lord Amlodd.	Lord Amlodd(암로드 경)가 Baxtorian(백스토리안)에게 준 crystal seed(크리스탈 씨앗)이다.	examine	item	Crystal seed
+A crystal seed that was given to Baxtorian by Lord Amlodd. It looks grey and dead.	Lord Amlodd(암로드 경)이 Baxtorian(백스토리안)에게 준 crystal seed(크리스탈 씨앗)이다. 잿빛인 데다 죽은 것 같다.	examine	item	Crystal seed
+A crystal seed that was given to Baxtorian by Lord Amlodd.	Lord Amlodd(암로드 경)이 Baxtorian(백스토리안)에게 준 crystal seed(크리스탈 씨앗)이다.	examine	item	Crystal seed
 To hold back the darkness.	어둠을 막아 내기 위해.	examine	item	Orb of light
 A scroll that Baxtorian gave to me. It should lead me to Lady Meilyr.	Baxtorian(백스토리안)이 준 두루마리다. Lady Meilyr(메일리르 부인)에게 이끌어 줄 것이다.	examine	item	Clue scroll
-A scroll that I found while searching for Lady Meilyr.	Lady Meilyr(메일리르 부인)를 찾다가 발견한 두루마리다.	examine	item	Clue scroll
+A scroll that I found while searching for Lady Meilyr.	Lady Meilyr(메일리르 부인)을 찾다가 발견한 두루마리다.	examine	item	Clue scroll
 A mix of chemicals that will violently explode when disturbed.	건드리면 격렬하게 폭발하는 화학 약품 혼합물이다.	examine	item	Explosive potion
 A corrupted crystalline sceptre with some magical properties.	마법적인 성질이 있는 타락한 크리스탈 셉터다.	examine	item	Corrupted sceptre
 Shards of corrupted crystal, used to craft items within the Gauntlet.	타락한 크리스탈 조각이다. Gauntlet(건틀릿) 안에서 아이템을 만드는 데 쓴다.	examine	item	Corrupted shards
@@ -6656,12 +6656,12 @@ A hat fit for hobbiest player killers.	취미로 하는 플레이어 킬러에�
 A hat fit for experienced player killers.	노련한 플레이어 킬러에게 어울리는 모자다.	examine	item	Bounty hunter hat (tier 4)
 A hat fit for advanced player killers.	숙련된 플레이어 킬러에게 어울리는 모자다.	examine	item	Bounty hunter hat (tier 5)
 A hat fit for only the most esteemed player killer.	가장 존경받는 플레이어 킬러만이 쓸 만한 모자다.	examine	item	Bounty hunter hat (tier 6)
-Contains a beginner clue scroll.	초보자용 clue scroll(단서 두루마리)이 들어 있다.	examine	item	Scroll box (beginner)
-Contains an easy clue scroll.	쉬움 clue scroll(단서 두루마리)이 들어 있다.	examine	item	Scroll box (easy)
-Contains a medium clue scroll.	중간 clue scroll(단서 두루마리)이 들어 있다.	examine	item	Scroll box (medium)
-Contains a hard clue scroll.	어려움 clue scroll(단서 두루마리)이 들어 있다.	examine	item	Scroll box (hard)
-Contains an elite clue scroll.	엘리트 clue scroll(단서 두루마리)이 들어 있다.	examine	item	Scroll box (elite)
-Contains a master clue scroll.	마스터 clue scroll(단서 두루마리)이 들어 있다.	examine	item	Scroll box (master)
+Contains a beginner clue scroll.	초보자용 clue scroll(단서 두루마리)가 들어 있다.	examine	item	Scroll box (beginner)
+Contains an easy clue scroll.	쉬움 clue scroll(단서 두루마리)가 들어 있다.	examine	item	Scroll box (easy)
+Contains a medium clue scroll.	중간 clue scroll(단서 두루마리)가 들어 있다.	examine	item	Scroll box (medium)
+Contains a hard clue scroll.	어려움 clue scroll(단서 두루마리)가 들어 있다.	examine	item	Scroll box (hard)
+Contains an elite clue scroll.	엘리트 clue scroll(단서 두루마리)가 들어 있다.	examine	item	Scroll box (elite)
+Contains a master clue scroll.	마스터 clue scroll(단서 두루마리)가 들어 있다.	examine	item	Scroll box (master)
 A Dragon trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).	Leagues I - Twisted(리그 I - 뒤틀린)(2019년 11월 14일~2020년 1월 16일) 참가 기념 Dragon(드래곤) 트로피다.	examine	item	Twisted dragon trophy
 A Rune trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).	Leagues I - Twisted(리그 I - 뒤틀린)(2019년 11월 14일~2020년 1월 16일) 참가 기념 Rune(룬) 트로피다.	examine	item	Twisted rune trophy
 An Adamant trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).	Leagues I - Twisted(리그 I - 뒤틀린)(2019년 11월 14일~2020년 1월 16일) 참가 기념 Adamant(아다만트) 트로피다.	examine	item	Twisted adamant trophy
@@ -6686,7 +6686,7 @@ An ancient staff corrupted by darkness. A volatile orb has been added to it.	어
 An ancient staff corrupted by darkness. An eldritch orb has been added to it.	어둠에 타락한 고대 지팡이다. eldritch orb(기괴한 오브)가 달려 있다.	examine	item	Eldritch nightmare staff
 A delicious looking Gingerbread Gnome.	맛있어 보이는 Gingerbread Gnome(진저브레드 노움)이다.	examine	item	Green gingerbread shield
 Used to make Gingerbread Gnomes.	Gingerbread Gnome(진저브레드 노움)을 만드는 데 쓴다.	examine	item	Festive cinnamon stick
-This Festive Pot is empty.	이 Festive Pot(축제용 단지)은 비어 있다.	examine	item	Festive pot
+This Festive Pot is empty.	이 Festive Pot(축제용 단지)는 비어 있다.	examine	item	Festive pot
 It looks delicious.	맛있어 보인다.	examine	item	Gingerbread shield
 A teleport to ScapeRune.	ScapeRune(스케이프룬)으로 순간이동한다.	examine	item	Scaperune teleport
 Used to open the storage room.	창고 문을 여는 데 쓴다.	examine	item	Bakery storage key
@@ -6852,14 +6852,14 @@ Interesting.	흥미롭다.	examine	item	Bp obj
 A very sturdy-feeling pair of slayer goggles.	아주 튼튼하게 느껴지는 슬레이어 고글이다.	examine	item	Reinforced goggles
 A dripping sourhog foot.	즙이 뚝뚝 떨어지는 sourhog foot(사우어호그 발)이다.	examine	item	Sourhog foot
 Contains a bounty of treasures found within the Hallowed Sepulchre.	Hallowed Sepulchre(신성한 묘소)에서 찾은 보물이 한가득 들어 있다.	examine	item	Hallowed sack
-A teleport to Lunar Isle.	Lunar Isle(루나 섬)로 순간이동한다.	examine	item	Moonclan teleport
+A teleport to Lunar Isle.	Lunar Isle(루나 섬)으로 순간이동한다.	examine	item	Moonclan teleport
 A teleport to the Ourania cave.	Ourania cave(오우라니아 동굴)로 순간이동한다.	examine	item	Ourania teleport
-A teleport to Waterbirth Island.	Waterbirth Island(워터버스 섬)로 순간이동한다.	examine	item	Waterbirth teleport
+A teleport to Waterbirth Island.	Waterbirth Island(워터버스 섬)으로 순간이동한다.	examine	item	Waterbirth teleport
 A teleport to Barbarian Outpost.	Barbarian Outpost(야만인 전초기지)로 순간이동한다.	examine	item	Barbarian teleport
 A teleport to Port Khazard.	Port Khazard(포트 카자드)로 순간이동한다.	examine	item	Khazard teleport
 A teleport to the Fishing Guild.	Fishing Guild(낚시 길드)로 순간이동한다.	examine	item	Fishing guild teleport
 A teleport to Catherby.	Catherby(캐서비)로 순간이동한다.	examine	item	Catherby teleport
-A teleport to the Ice Plateau in level 53 Wilderness.	레벨 53 Wilderness(황야)의 Ice Plateau(얼음 고원)로 순간이동한다.	examine	item	Ice plateau teleport
+A teleport to the Ice Plateau in level 53 Wilderness.	레벨 53 Wilderness(황야)의 Ice Plateau(얼음 고원)으로 순간이동한다.	examine	item	Ice plateau teleport
 There's a spooky spell on this helm.	이 투구에는 으스스한 주문이 걸려 있다.	examine	item	Headless head
 Looks like it can be planted in your garden.	정원에 심을 수 있을 것 같다.	examine	item	Magical pumpkin
 Filled with candy.	사탕이 가득 들어 있다.	examine	item	Pumpkin
@@ -7016,7 +7016,7 @@ An all natural harpoon substitute.	천연 작살 대용품이다.	examine	item	R
 Looks like it would pack a punch.	한 방 먹일 만큼 묵직해 보인다.	examine	item	Harpoonfish
 Its scales have been turned to crystal.	비늘이 크리스탈로 변했다.	examine	item	Crystallised harpoonfish
 A soaked and battered log from The Desert Trout's last fishing trip.	The Desert Trout(사막 송어호)의 마지막 고기잡이에서 나온, 흠뻑 젖고 너덜너덜해진 항해 일지다.	examine	item	The desert trout - ship's log
-Notes and research on Tempoross written by the Spirit Anglers.	Spirit Anglers(영혼 낚시꾼)가 Tempoross(템포로스)에 관해 쓴 메모와 연구 자료다.	examine	item	Spirit anglers research notes
+Notes and research on Tempoross written by the Spirit Anglers.	Spirit Anglers(영혼 낚시꾼)이 Tempoross(템포로스)에 관해 쓴 메모와 연구 자료다.	examine	item	Spirit anglers research notes
 This egg appears to have been for a swim recently. It probably wouldn't taste very nice.	이 알은 최근에 수영을 하고 온 것 같다. 맛은 별로 없을 것이다.	examine	item	Damp egg
 An ancient tome containing the secrets of water magic.	물 마법의 비밀이 담긴 고대의 고서다.	examine	item	Tome of water
 It feels clammy, like second-hand toilet paper.	중고 화장지처럼 축축하다.	examine	item	Soaked page
@@ -7116,7 +7116,7 @@ A giant sac of... orange spider eggs? Use on Sraracha.	거대한 알주머니다
 A giant sac of... blue spider eggs? Use on Sraracha.	거대한 알주머니다... 파란색 거미 알? Sraracha(스라라차)에게 사용한다.	examine	item	Blue egg sac
 A deadly throwing dart with an amethyst tip.	amethyst(자수정) 촉이 달린 치명적인 투척용 다트다.	examine	item	Amethyst dart
 A deadly poisoned dart with an amethyst tip.	amethyst(자수정) 촉이 달린 치명적인 독 다트다.	examine	item	Amethyst dart(p)
-A deadly-looking dart tip made of amethyst - needs feathers for flight.	amethyst(자수정)로 만든 치명적으로 보이는 다트 촉이다. 날아가려면 깃털이 필요하다.	examine	item	Amethyst dart tip
+A deadly-looking dart tip made of amethyst - needs feathers for flight.	amethyst(자수정)으로 만든 치명적으로 보이는 다트 촉이다. 날아가려면 깃털이 필요하다.	examine	item	Amethyst dart tip
 A seed to be sung into the most powerful crystal weaponry.	가장 강력한 크리스탈 무기로 노래해 빚어낼 씨앗이다.	examine	item	Enhanced crystal weapon seed
 A magical elven bow.	마법이 깃든 엘프의 활이다.	examine	item	Bow of faerdhinen (inactive)
 A magical elven bow, corrupted through the addition of too many shards.	마법이 깃든 엘프의 활이다. 조각을 너무 많이 넣어 타락했다.	examine	item	Bow of faerdhinen (c)
@@ -7404,18 +7404,18 @@ Contains a small amount of runic energy.	룬 에너지가 조금 담겨 있다.	
 Contains a moderate amount of runic energy.	룬 에너지가 적당히 담겨 있다.	examine	item	Medium cell
 Contains a high amount of runic energy.	룬 에너지가 많이 담겨 있다.	examine	item	Strong cell
 Contains an immense amount of runic energy.	룬 에너지가 어마어마하게 담겨 있다.	examine	item	Overcharged cell
-A talisman bound to the Air Altar.	Air Altar(공기의 제단)와 연결된 부적이다.	examine	item	Portal talisman (air)
-A talisman bound to the Water Altar.	Water Altar(물의 제단)와 연결된 부적이다.	examine	item	Portal talisman (water)
-A talisman bound to the Earth Altar.	Earth Altar(대지의 제단)와 연결된 부적이다.	examine	item	Portal talisman (earth)
-A talisman bound to the Fire Altar.	Fire Altar(불의 제단)와 연결된 부적이다.	examine	item	Portal talisman (fire)
-A talisman bound to the Mind Altar.	Mind Altar(정신의 제단)와 연결된 부적이다.	examine	item	Portal talisman (mind)
-A talisman bound to the Chaos Altar.	Chaos Altar(혼돈의 제단)와 연결된 부적이다.	examine	item	Portal talisman (chaos)
-A talisman bound to the Death Altar.	Death Altar(죽음의 제단)와 연결된 부적이다.	examine	item	Portal talisman (death)
-A talisman bound to the Blood Altar.	Blood Altar(피의 제단)와 연결된 부적이다.	examine	item	Portal talisman (blood)
-A talisman bound to the Body Altar.	Body Altar(육체의 제단)와 연결된 부적이다.	examine	item	Portal talisman (body)
-A talisman bound to the Cosmic Altar.	Cosmic Altar(우주의 제단)와 연결된 부적이다.	examine	item	Portal talisman (cosmic)
-A talisman bound to the Nature Altar.	Nature Altar(자연의 제단)와 연결된 부적이다.	examine	item	Portal talisman (nature)
-A talisman bound to the Law Altar.	Law Altar(법의 제단)와 연결된 부적이다.	examine	item	Portal talisman (law)
+A talisman bound to the Air Altar.	Air Altar(공기의 제단)과 연결된 부적이다.	examine	item	Portal talisman (air)
+A talisman bound to the Water Altar.	Water Altar(물의 제단)과 연결된 부적이다.	examine	item	Portal talisman (water)
+A talisman bound to the Earth Altar.	Earth Altar(대지의 제단)과 연결된 부적이다.	examine	item	Portal talisman (earth)
+A talisman bound to the Fire Altar.	Fire Altar(불의 제단)과 연결된 부적이다.	examine	item	Portal talisman (fire)
+A talisman bound to the Mind Altar.	Mind Altar(정신의 제단)과 연결된 부적이다.	examine	item	Portal talisman (mind)
+A talisman bound to the Chaos Altar.	Chaos Altar(혼돈의 제단)과 연결된 부적이다.	examine	item	Portal talisman (chaos)
+A talisman bound to the Death Altar.	Death Altar(죽음의 제단)과 연결된 부적이다.	examine	item	Portal talisman (death)
+A talisman bound to the Blood Altar.	Blood Altar(피의 제단)과 연결된 부적이다.	examine	item	Portal talisman (blood)
+A talisman bound to the Body Altar.	Body Altar(육체의 제단)과 연결된 부적이다.	examine	item	Portal talisman (body)
+A talisman bound to the Cosmic Altar.	Cosmic Altar(우주의 제단)과 연결된 부적이다.	examine	item	Portal talisman (cosmic)
+A talisman bound to the Nature Altar.	Nature Altar(자연의 제단)과 연결된 부적이다.	examine	item	Portal talisman (nature)
+A talisman bound to the Law Altar.	Law Altar(법의 제단)과 연결된 부적이다.	examine	item	Portal talisman (law)
 Not quite as great as the Great Guardian, but pretty close.	Great Guardian(위대한 수호자)만큼 위대하진 않지만, 꽤 비슷하다.	examine	item	Greatish guardian
 Your own personal abyssal horror.	나만의 심연 호러다.	examine	item	Abyssal protector
 A mysterious amulet in the shape of an eye.	눈 모양을 한 신비로운 아뮬렛이다.	examine	item	Eye amulet
@@ -7476,9 +7476,9 @@ They fit suprisingly well.	의외로 잘 맞는다.	examine	item	Smiths gloves
 They fit suprisingly well and are stuffed with a pair of ice gloves.	의외로 잘 맞고, 안에 ice gloves(얼음 장갑) 한 켤레가 채워져 있다.	examine	item	Smiths gloves (i)
 A crown made out of six beautiful flowers that celebrates Pride.	프라이드를 기념하는, 아름다운 꽃 여섯 송이로 만든 화관이다.	examine	item	Flower crown
 A seed that can be planted to grow a Legendary Red Rose.	심으면 Legendary Red Rose(전설의 붉은 장미)가 자라는 씨앗이다.	examine	item	Legendary red rose seed
-A seed that can be planted to grow a Gorgeous Orange Lily.	심으면 Gorgeous Orange Lily(화려한 주황 백합)가 자라는 씨앗이다.	examine	item	Gorgeous orange lily seed
+A seed that can be planted to grow a Gorgeous Orange Lily.	심으면 Gorgeous Orange Lily(화려한 주황 백합)이 자라는 씨앗이다.	examine	item	Gorgeous orange lily seed
 A seed that can be planted to grow a Beautiful Yellow Pansy.	심으면 Beautiful Yellow Pansy(아름다운 노란 팬지)가 자라는 씨앗이다.	examine	item	Beautiful yellow pansy seed
-A seed that can be planted to grow a Tenacious Indigo Iris.	심으면 Tenacious Indigo Iris(끈질긴 남색 붓꽃)가 자라는 씨앗이다.	examine	item	Tenacious indigo iris seed
+A seed that can be planted to grow a Tenacious Indigo Iris.	심으면 Tenacious Indigo Iris(끈질긴 남색 붓꽃)이 자라는 씨앗이다.	examine	item	Tenacious indigo iris seed
 A seed that can be planted to grow a Quality Violet Tulip.	심으면 Quality Violet Tulip(고급 보라 튤립)이 자라는 씨앗이다.	examine	item	Quality violet tulip seed
 "Engraved within, it reads ""Ranked or not: We stand alone - together""."	"안쪽에 ""랭크가 있든 없든, 우리는 홀로 - 함께 선다""라고 새겨져 있다."	examine	item	Group ironman helm (unranked)
 Supplies a selection of runes for spellcasting.	주문 시전에 쓸 여러 룬을 담아 둔다.	examine	item	Rune pouch
@@ -7525,7 +7525,7 @@ I can just about see something in the reflection.	비친 모습 속에 뭔가가
 For neutralising toxic fumes and corruption.	유독한 연기와 타락을 중화하는 물약이다.	examine	item	Neutralising potion
 A message from Maisa.	Maisa(마이사)가 보낸 메시지다.	examine	item	Maisa's message
 A journal found at the entrance to Osmumten's Tomb.	Osmumten's Tomb(오스뭄텐의 무덤) 입구에서 발견한 일지다.	examine	item	Akila's journal
-A book about Amascut's capture of Het.	Amascut(아마스컷)이 Het(헤트)을 사로잡은 일에 관한 책이다.	examine	item	Het's capture
+A book about Amascut's capture of Het.	Amascut(아마스컷)이 Het(헤트)를 사로잡은 일에 관한 책이다.	examine	item	Het's capture
 A book about Amascut's capture of Apmeken.	Amascut(아마스컷)이 Apmeken(앱메켄)을 사로잡은 일에 관한 책이다.	examine	item	Apmeken's capture
 A book about Amascut's capture of Scabaras.	Amascut(아마스컷)이 Scabaras(스카바라스)를 사로잡은 일에 관한 책이다.	examine	item	Scabaras' capture
 A book about Amascut's capture of Crondis.	Amascut(아마스컷)이 Crondis(크론디스)를 사로잡은 일에 관한 책이다.	examine	item	Crondis' capture
@@ -7760,7 +7760,7 @@ A beautifully crafted felling axe, shaped by ancient smiths.	고대 대장장이
 Born in the shadows.	그림자 속에서 태어났다.	examine	item	Wisp
 A tiny headless executioner.	머리 없는 작은 처형인이다.	examine	item	Butch
 Better keep an eye on this one.	이 녀석에게서 눈을 떼지 않는 게 좋겠다.	examine	item	Baron
-A small creature deformed by the Abyss.	Abyss(심연)로 인해 일그러진 작은 생물이다.	examine	item	Lil'viathan
+A small creature deformed by the Abyss.	Abyss(심연)으로 인해 일그러진 작은 생물이다.	examine	item	Lil'viathan
 Made of condensed blood energy.	응축된 피의 에너지로 만들어졌다.	examine	item	Blood quartz
 Made of condensed ice energy.	응축된 얼음 에너지로 만들어졌다.	examine	item	Ice quartz
 Made of condensed shadow energy.	응축된 그림자 에너지로 만들어졌다.	examine	item	Shadow quartz
@@ -7881,8 +7881,8 @@ These would look great made into some clothing...	이걸로 옷을 만들면 정
 A wooden whistle that could attract a fox to follow you.	여우가 따라오게 만들 수 있는 나무 호루라기다.	examine	item	Fox whistle
 Used to provide additional planks at the sawmill.	제재소에서 판자를 추가로 받는 데 쓴다.	examine	item	Sawmill voucher
 These help you choose your nest rewards.	둥지 보상을 고르는 데 도움이 된다.	examine	item	Twitcher's gloves
-This fuel is used to create Smoker canisters that can pacify wild bees.	야생 벌을 진정시키는 Smoker canister(훈연 통)를 만드는 연료다.	examine	item	Smoker fuel
-If used correctly, smoker canisters can pacify wild bees.	제대로 쓰면 smoker canister(훈연 통)로 야생 벌을 진정시킬 수 있다.	examine	item	Smoker canister
+This fuel is used to create Smoker canisters that can pacify wild bees.	야생 벌을 진정시키는 Smoker canister(훈연 통)을 만드는 연료다.	examine	item	Smoker fuel
+If used correctly, smoker canisters can pacify wild bees.	제대로 쓰면 smoker canister(훈연 통)으로 야생 벌을 진정시킬 수 있다.	examine	item	Smoker canister
 A small charm used to make Petal Circlet.	Petal Circlet(꽃잎 서클릿)을 만드는 데 쓰는 작은 부적이다.	examine	item	Crystal charm
 These can be used to attract a Dryad.	이걸로 Dryad(드라이어드)를 끌어들일 수 있다.	examine	item	Petal circlet
 A gift from a Dryad.	Dryad(드라이어드)의 선물이다.	examine	item	Petal garland
@@ -7933,9 +7933,9 @@ A set containing Trailblazer Reloaded boots (t2), Trailblazer Reloaded trousers 
 A set containing Trailblazer Reloaded boots (t3), Trailblazer Reloaded trousers (t3), Trailblazer Reloaded top (t3) and Trailblazer Reloaded hood (t3).	Trailblazer Reloaded boots (t3)(트레일블레이저 리로디드 장화 (t3)), Trailblazer Reloaded trousers (t3)(트레일블레이저 리로디드 바지 (t3)), Trailblazer Reloaded top (t3)(트레일블레이저 리로디드 상의 (t3)), Trailblazer Reloaded hood (t3)(트레일블레이저 리로디드 두건 (t3))이 든 세트다.	examine	item	Trailblazer reloaded relic hunter (t3) armour set
 The coolest jumper ever!	세상에서 제일 멋진 스웨터다!	examine	item	Icy jumper
 A teleport to Kourend Castle.	Kourend Castle(쿠렌드 성)으로 가는 순간이동 수단이다.	examine	item	Kourend castle teleport
-A spiky mace hardened with Scurrius' spine.	Scurrius' spine(스커리어스의 척추)으로 단단하게 만든 가시 돋친 mace(철퇴)다.	examine	item	Bone mace
-A shortbow made out of yew and Scurrius' spine, but still effective.	yew(주목)와 Scurrius' spine(스커리어스의 척추)으로 만든 shortbow(짧은 활)지만, 그래도 쓸 만하다.	examine	item	Bone shortbow
-It's a slightly magical stick intertwined with Scurrius' spine.	Scurrius' spine(스커리어스의 척추)이 얽혀 있는, 약간 마력을 띤 막대기다.	examine	item	Bone staff
+A spiky mace hardened with Scurrius' spine.	Scurrius' spine(스커리어스의 척추)로 단단하게 만든 가시 돋친 mace(철퇴)다.	examine	item	Bone mace
+A shortbow made out of yew and Scurrius' spine, but still effective.	yew(주목)과 Scurrius' spine(스커리어스의 척추)로 만든 shortbow(짧은 활)지만, 그래도 쓸 만하다.	examine	item	Bone shortbow
+It's a slightly magical stick intertwined with Scurrius' spine.	Scurrius' spine(스커리어스의 척추)가 얽혀 있는, 약간 마력을 띤 막대기다.	examine	item	Bone staff
 This can be attached to a Battlestaff, Rune Mace or Yew Shortbow.	Battlestaff(전투 지팡이), Rune Mace(룬 철퇴), Yew Shortbow(주목 짧은 활)에 붙일 수 있다.	examine	item	Scurrius' spine
 I wonder if it sits.	앉으라고 하면 앉으려나.	examine	item	Scurry
 A key found while tracking zombies (Used in the Defender of Varrock quest).	좀비를 추적하다가 찾은 열쇠다(Defender of Varrock(바록의 수호자) 퀘스트에 사용).	examine	item	Grubby key
@@ -7952,7 +7952,7 @@ An old chipped granite tablet.	이가 빠진 낡은 granite tablet(화강암 석
 An old chipped slate tablet.	이가 빠진 낡은 slate tablet(점판암 석판)이다.	examine	item	Slate tablet
 An old chipped shale tablet.	이가 빠진 낡은 shale tablet(셰일 석판)이다.	examine	item	Shale tablet
 Pockets full of gold.	주머니마다 금이 가득하다.	examine	item	Wealthy citizen
-A pouch full of coins taken from the pockets of a wealthy citizen.	wealthy citizen(부유한 시민)의 주머니에서 털어 온 coins(코인)가 가득 든 주머니다.	examine	item	Coin pouch
+A pouch full of coins taken from the pockets of a wealthy citizen.	wealthy citizen(부유한 시민)의 주머니에서 털어 온 coins(코인)이 가득 든 주머니다.	examine	item	Coin pouch
 A teleport to Civitas illa Fortis.	Civitas illa Fortis(시비타스 일라 포르티스)로 가는 순간이동 수단이다.	examine	item	Civitas illa fortis teleport
 A broken Quiver awarded to those who have proved their worth in the Colosseum.	Colosseum(콜로세움)에서 실력을 증명한 이에게 주어지는 부서진 Quiver(화살통)다.	examine	item	Dizana's quiver (broken)
 A broken Quiver awarded to those who have proved their worth in the Colosseum. Blessed by Ralos.	Colosseum(콜로세움)에서 실력을 증명한 이에게 주어지는 부서진 Quiver(화살통)다. Ralos(랄로스)의 축복을 받았다.	examine	item	Blessed dizana's quiver (broken)
@@ -7964,8 +7964,8 @@ Bolts made from the antlers of a sunlight antelope.	sunlight antelope(햇빛 영
 Bolts made from the antlers of a moonlight antelope.	moonlight antelope(달빛 영양)의 뿔로 만든 볼트다.	examine	item	Moonlight antler bolts
 Antler of a sunlight antelope.	sunlight antelope(햇빛 영양)의 뿔이다.	examine	item	Sunlight antler
 Antler of a moonlight antelope.	moonlight antelope(달빛 영양)의 뿔이다.	examine	item	Moonlight antler
-There's a sunlight moth in here.	안에 sunlight moth(햇빛 나방)가 들어 있다.	examine	item	Sunlight moth
-There's a moonlight moth in here.	안에 moonlight moth(달빛 나방)가 들어 있다.	examine	item	Moonlight moth
+There's a sunlight moth in here.	안에 sunlight moth(햇빛 나방)이 들어 있다.	examine	item	Sunlight moth
+There's a moonlight moth in here.	안에 moonlight moth(달빛 나방)이 들어 있다.	examine	item	Moonlight moth
 A strong spirit with a bold flavour.	맛이 대담하고 독한 증류주다.	examine	item	Rum
 A rebounding throwing weapon of devastating proportions.	엄청난 위력으로 되돌아오는 투척 무기다.	examine	item	Tonalztics of ralos (uncharged)
 Vaporised material from the sun.	태양에서 기화된 물질이다.	examine	item	Sunfire splinters
@@ -8086,11 +8086,11 @@ Should I be reading this?	이걸 읽어도 되려나?	examine	item	Apatura's not
 I can use this to open the Hunter Guild chest.	이걸로 Hunter Guild(사냥꾼 길드) 상자를 열 수 있다.	examine	item	Apatura's key
 Spare keys to wealthy households in Civitas illa Fortis.	Civitas illa Fortis(시비타스 일라 포르티스)의 부잣집 여분 열쇠들이다.	examine	item	House keys
 Some valuable bits and bobs from wealthy houses.	부잣집에서 가져온 값진 잡동사니다.	examine	item	Valuables
-A statuette carved from the finest blessed bone.	최고급 blessed bone(축복받은 뼈)을 깎아 만든 statuette(작은 조각상)다.	examine	item	Blessed bone statuette
+A statuette carved from the finest blessed bone.	최고급 blessed bone(축복받은 뼈)를 깎아 만든 statuette(작은 조각상)다.	examine	item	Blessed bone statuette
 Bones blessed at an exposed altar.	exposed altar(드러난 제단)에서 축복받은 뼈다.	examine	item	Blessed bones
 These bones have been left out a little too long.	이 뼈는 너무 오래 내버려 뒀다.	examine	item	Sun-kissed bones
 Blessed bones that have been broken down into smaller pieces.	잘게 부순 blessed bones(축복받은 뼈)다.	examine	item	Blessed bone shards
-A jug of sunfire wine. Not for drinking.	sunfire wine(태양불 포도주)이 든 jug(주전자)다. 마시면 안 된다.	examine	item	Jug of sunfire wine
+A jug of sunfire wine. Not for drinking.	sunfire wine(태양불 포도주)가 든 jug(주전자)다. 마시면 안 된다.	examine	item	Jug of sunfire wine
 A jug of sunfire wine that's been blessed by Ralos. Not for drinking.	Ralos(랄로스)의 축복을 받은 sunfire wine(태양불 포도주) 주전자다. 마시면 안 된다.	examine	item	Jug of blessed sunfire wine
 A jug of wine that's been blessed by Ralos.	Ralos(랄로스)의 축복을 받은 jug of wine(포도주 주전자)이다.	examine	item	Jug of blessed wine
 A small token.	작은 token(토큰)이다.	examine	item	Token
@@ -8100,7 +8100,7 @@ A dwarven delight from Cam Torum.	Cam Torum(캠 토룸)에서 온 드워프의 �
 A full-bodied Aldarin Red that's generally considered the finest wine available.	흔히 최고의 와인으로 꼽히는 풀바디 Aldarin Red(알다린 레드)다.	examine	item	Eclipse red
 A popular spirit all across Varlamore.	Varlamore(바를라모어) 전역에서 인기 있는 증류주다.	examine	item	Moon-lite
 A highly desirable liquor.	누구나 탐내는 독주다.	examine	item	Sun-shine
-A set containing a Sunfire Fanatic Helm, Sunfire Fanatic Platebody and Sunfire Fanatic Platelegs.	Sunfire Fanatic Helm(태양불 광신도 투구), Sunfire Fanatic Platebody(태양불 광신도 판금 갑옷), Sunfire Fanatic Platelegs(태양불 광신도 판금 다리 갑옷)가 든 세트다.	examine	item	Sunfire fanatic armour set
+A set containing a Sunfire Fanatic Helm, Sunfire Fanatic Platebody and Sunfire Fanatic Platelegs.	Sunfire Fanatic Helm(태양불 광신도 투구), Sunfire Fanatic Platebody(태양불 광신도 판금 갑옷), Sunfire Fanatic Platelegs(태양불 광신도 판금 다리 갑옷)이 든 세트다.	examine	item	Sunfire fanatic armour set
 Some notes written by an unknown herbalist.	정체 모를 약초꾼이 쓴 메모다.	examine	item	Herbalist's notes
 Some notes written by an unknown chef.	정체 모를 요리사가 쓴 메모다.	examine	item	Chef's notes
 An eggsquisite tome.	달걀같이 정교한 고서다.	examine	item	Book of egg
@@ -8269,7 +8269,7 @@ A book on the wines of the Moonrise Brewery and Winery.	Moonrise Brewery and Win
 A barrel for collecting grapes.	grapes(포도)를 모으는 barrel(통)이다.	examine	item	Grape barrel
 Menaces to structural integrity.	건물 구조를 위협하는 녀석들이다.	examine	item	Termites
 A teleport to the Colossal Wyrm Remains in the Avium Savannah.	Avium Savannah(아비움 사바나)의 Colossal Wyrm Remains(거대 웜 유해)로 가는 순간이동 수단이다.	examine	item	Colossal wyrm teleport scroll
-A brittle looking acorn. Perhaps a squirrel would be interested in this?	잘 부서질 것 같은 acorn(도토리)이다. squirrel(다람쥐)이 관심을 보일지도?	examine	item	Calcified acorn
+A brittle looking acorn. Perhaps a squirrel would be interested in this?	잘 부서질 것 같은 acorn(도토리)이다. squirrel(다람쥐)가 관심을 보일지도?	examine	item	Calcified acorn
 Gives your graceful kit a Varlamore-themed makeover.	graceful(기품 있는) 장비를 Varlamore(바를라모어) 테마로 꾸며 준다.	examine	item	Graceful crafting kit
 An ancient tome containing the secrets of earth magic.	대지 마법의 비밀이 담긴 고대의 고서다.	examine	item	Tome of earth
 It's a bit dirty.	좀 더럽다.	examine	item	Soiled page
@@ -8339,7 +8339,7 @@ A very powerful axe in the colours of the Trailblazer Reloaded League.	Trailblaz
 A perfect pouch for foraging herbs.	약초 채집에 딱 맞는 주머니다.	examine	item	Forager's pouch
 Just how deep do the Leprechaun's pockets go?	Leprechaun(레프리콘)의 주머니는 대체 얼마나 깊은 걸까?	examine	item	Leprechaun's vault
 Allows travel to all banks around Gileinor.	Gileinor(길리노르) 곳곳의 모든 은행으로 이동할 수 있다.	examine	item	Banker's briefcase
-A useful compass for those in search of treasure.	treasure(보물)를 찾는 이에게 유용한 compass(나침반)다.	examine	item	Clue compass
+A useful compass for those in search of treasure.	treasure(보물)을 찾는 이에게 유용한 compass(나침반)다.	examine	item	Clue compass
 Don't trip!	걸려 넘어지지 마!	examine	item	Pocket kingdom
 Is this the true god sword? Or simply a joke replica?	이게 진짜 갓소드일까? 아니면 그냥 장난삼아 만든 모조품일까?	examine	item	The dogsword
 A weapon from a being that truly worships gods.	진정으로 신들을 숭배하는 존재가 쓰던 무기다.	examine	item	Sunlight spear
@@ -8569,7 +8569,7 @@ He provides new players with useful information.	새로운 플레이어에게 �
 He looks relieved.	안도한 표정이다.	examine	npc	Dr Jekyll
 A shady and mysterious figure.	수상하고 수수께끼 같은 인물이다.	examine	npc	Emblem Trader
 For Mod Reach.	Mod Reach(모드 리치)를 위하여.	examine	npc	Reacher
-This gardener might look after your cactus for you.	이 정원사가 cactus(선인장)를 돌봐 줄지도 모른다.	examine	npc	Ayesha
+This gardener might look after your cactus for you.	이 정원사가 cactus(선인장)을 돌봐 줄지도 모른다.	examine	npc	Ayesha
 He can tell you about being an Ironman.	Ironman(아이언맨)이 되는 것에 대해 알려 줄 수 있다.	examine	npc	Ironman tutor
 A frog.	개구리다.	examine	npc	Frog
 He can tell you all about Leagues.	Leagues(리그)에 대해 전부 알려 줄 수 있다.	examine	npc	Leagues Tutor
@@ -8739,13 +8739,13 @@ I think they're some kind of beetle...	일종의 딱정벌레 같다...	examine	
 A mysterious ghostly figure.	수수께끼 같은 유령 형상이다.	examine	npc	Azzanadra
 A Sheep?	양?	examine	npc	Sheep
 A well fed looking farmer.	잘 먹은 듯한 농부다.	examine	npc	Fred the Farmer
-Leads the Bandits.	Bandits(산적)를 이끈다.	examine	npc	Bandit Leader
+Leads the Bandits.	Bandits(산적)을 이끈다.	examine	npc	Bandit Leader
 A vicious thief.	사나운 도둑이다.	examine	npc	Bandit
 Tough-looking.	거칠어 보인다.	examine	npc	Bandit
 A very tough-looking bandit.	아주 거칠어 보이는 산적이다.	examine	npc	Bandit champion
 Probably the weakest bandit in the world... poor thing.	아마 세상에서 가장 약한 산적일 거다... 불쌍하기도 하지.	examine	npc	Cowardly Bandit
 Trollish.	트롤답다.	examine	npc	My Arm
-He's poking his farming patch with my dibber.	내 dibber(모종 막대)로 자기 farming patch(농사 밭)를 쑤시고 있다.	examine	npc	My Arm
+He's poking his farming patch with my dibber.	내 dibber(모종 막대)로 자기 farming patch(농사 밭)을 쑤시고 있다.	examine	npc	My Arm
 He has a bucket and he's not afraid to use it.	bucket(양동이)를 들고 있고, 휘두르는 데 거리낌이 없다.	examine	npc	My Arm
 My rake is in the hand of My Arm.	내 rake(갈퀴)가 My Arm(마이 암)의 손에 들려 있다.	examine	npc	My Arm
 He's in a pretty nasty spot, in a pretty nasty pot. With some cabbage.	꽤 고약한 처지다. 꽤 고약한 단지 속이다. cabbage(양배추)도 함께.	examine	npc	Adventurer
@@ -8964,7 +8964,7 @@ A large angry scorpion.	크고 성난 전갈이다.	examine	npc	Khazard Scorpion
 It is the avatar of the Arzinian Being of Bordanzan, representing strength.	Arzinian Being of Bordanzan(보르단잔의 아르지니안 존재)의 화신으로, 힘을 상징한다.	examine	npc	Arzinian Avatar of Strength
 It is the avatar of the Arzinian Being of Bordanzan, representing ranging.	Arzinian Being of Bordanzan(보르단잔의 아르지니안 존재)의 화신으로, 원거리 공격을 상징한다.	examine	npc	Arzinian Avatar of Ranging
 It is the avatar of the Arzinian Being of Bordanzan, representing magic.	Arzinian Being of Bordanzan(보르단잔의 아르지니안 존재)의 화신으로, 마법을 상징한다.	examine	npc	Arzinian Avatar of Magic
-It's the Arzinian Being, whatever that is, that comes from Bordanzan, wherever that is.	Bordanzan(보르단잔)이 어딘지는 몰라도 거기서 온, Arzinian Being(아르지니안 존재)이 뭔지는 몰라도 바로 그것이다.	examine	npc	Arzinian Being of Bordanzan
+It's the Arzinian Being, whatever that is, that comes from Bordanzan, wherever that is.	Bordanzan(보르단잔)이 어딘지는 몰라도 거기서 온, Arzinian Being(아르지니안 존재)가 뭔지는 몰라도 바로 그것이다.	examine	npc	Arzinian Being of Bordanzan
 All you see is a glimmer of light and the suggestion of shadow.	보이는 건 희미한 빛과 그림자의 기척뿐이다.	examine	npc	Saboteur
 Sells gnomish things.	노움 물건을 판다.	examine	npc	Gnome shop keeper
 Ahhh. Isn't it cute?	아아. 귀엽지 않아?	examine	npc	Cute Creature
@@ -9048,7 +9048,7 @@ A dwarven worker.	드워프 일꾼이다.	examine	npc	Dwarf
 A member of the Black Guard, a special division of the dwarven army.	드워프 군대의 특수 부대인 Black Guard(검은 경비대)의 일원이다.	examine	npc	Black Guard
 He looks busy.	바빠 보인다.	examine	npc	Engineering assistant
 He's wandering around aimlessly with a box of spare parts.	여분 부품이 든 상자를 들고 정처 없이 돌아다니고 있다.	examine	npc	Engineering assistant
-He's building a cannon.	cannon(대포)을 만들고 있다.	examine	npc	Engineer
+He's building a cannon.	cannon(대포)를 만들고 있다.	examine	npc	Engineer
 Bushy tail!	복슬복슬한 꼬리!	examine	npc	Squirrel
 Likes nuts.	견과류를 좋아한다.	examine	npc	Squirrel
 Shave the tail, and you've got a rat.	꼬리털을 밀면 쥐가 된다.	examine	npc	Squirrel
@@ -9317,7 +9317,7 @@ Keeps order in the tribe's territory.	부족 영토의 질서를 유지한다.	e
 A worshipper of Zulrah.	Zulrah(줄라)의 숭배자다.	examine	npc	Zul-Cheray
 He has volunteered to be a sacrifice to Zulrah.	Zulrah(줄라)에게 바칠 제물이 되겠다고 자원했다.	examine	npc	Sacrifice
 The tribe's eel-catcher.	부족의 장어잡이다.	examine	npc	Zul-Onan
-He served King Tyras before he found a new master.	새 주인을 찾기 전에는 King Tyras(티라스 왕)를 섬겼다.	examine	npc	Zul-Aniel
+He served King Tyras before he found a new master.	새 주인을 찾기 전에는 King Tyras(티라스 왕)을 섬겼다.	examine	npc	Zul-Aniel
 He's set up a telescope pointing deep into the swamp.	늪 깊숙한 곳을 향해 망원경을 설치해 두었다.	examine	npc	Broken Handz
 The green hooded serpent of the poison waste.	독의 황무지에 도사린 초록빛 두건 뱀이다.	examine	npc	Zulrah
 The crimson hooded serpent of the poison waste.	독의 황무지에 도사린 진홍빛 두건 뱀이다.	examine	npc	Zulrah
@@ -9548,7 +9548,7 @@ A disciple of Zamorak.	Zamorak(자모락)의 제자다.	examine	npc	Mage of Zamo
 An initiate of Zamorak.	Zamorak(자모락)의 입문자다.	examine	npc	Dark Mage
 A blood-drinking denizen of the Abyss.	피를 마시는 Abyss(심연)의 거주자다.	examine	npc	Abyssal leech
 It seems to have eyes in the back of its head...	뒤통수에도 눈이 달린 것 같다...	examine	npc	Abyssal guardian
-Apparently walks the Abyss.	Abyss(심연)를 걸어 다니는 모양이다.	examine	npc	Abyssal walker
+Apparently walks the Abyss.	Abyss(심연)을 걸어 다니는 모양이다.	examine	npc	Abyssal walker
 He looks angry and smells drunk.	화나 보이고 술 냄새가 난다.	examine	npc	Skippy
 Like a regular Skippy, just damper.	평소의 Skippy(스키피) 같은데, 좀 더 축축하다.	examine	npc	Skippy
 Skippy, just looking a little 'tender'.	Skippy(스키피)인데, 숙취로 좀 '욱신거려' 보인다.	examine	npc	Skippy
@@ -9833,7 +9833,7 @@ The Wizards' Tower's armourer.	Wizards' Tower(마법사의 탑)의 무구 담당
 Yuck! It's all slimy!	으윽! 온통 끈적끈적하다!	examine	npc	Leech
 A Bee keeper.	양봉가다.	examine	npc	Bee keeper
 Is it a low cloud?	낮게 깔린 구름인가?	examine	npc	Mist
-And I shall call him Fang.	이 녀석을 Fang(송곳니)이라 부르리라.	examine	npc	Vampyric hound
+And I shall call him Fang.	이 녀석을 Fang(송곳니)라 부르리라.	examine	npc	Vampyric hound
 Its bark is worse than its swipe.	겉껍질만 험상궂지 휘두르는 건 별거 아니다.	examine	npc	Tree
 An expert on the brewing of ales and cider.	에일과 사과주 양조의 전문가다.	examine	npc	Blandebir
 In his former life an expert brewer.	생전에 뛰어난 양조사였다.	examine	npc	Metarialus
@@ -10460,7 +10460,7 @@ He's making a break for it!	탈출하려 하고 있다!	examine	npc	Escaping sla
 He looks a bit aggressive.	좀 공격적으로 보인다.	examine	npc	Rowdy slave
 He's in control of the whole mining camp.	채광 야영지 전체를 관리한다.	examine	npc	Captain Siad
 He's the leader of the Bedabin tribe.	Bedabin(베다빈) 부족의 족장이다.	examine	npc	Al Shabim
-A bedabin nomad, they live in the harshest extremes in the desert.	Bedabin nomad(베다빈 유목민)로, 사막의 가장 혹독한 환경에서 살아간다.	examine	npc	Bedabin Nomad
+A bedabin nomad, they live in the harshest extremes in the desert.	Bedabin nomad(베다빈 유목민)으로, 사막의 가장 혹독한 환경에서 살아간다.	examine	npc	Bedabin Nomad
 A bedabin nomad guard - it looks like he's protecting an area.	Bedabin nomad guard(베다빈 유목민 경비병)다 - 어떤 구역을 지키고 있는 것 같다.	examine	npc	Bedabin Nomad Guard
 A resident of Al Kharid.	Al Kharid(알 카리드)의 주민이다.	examine	npc	Irena
 He's in control of the Shantay pass.	Shantay pass(샨테이 통행로)를 관리한다.	examine	npc	Shantay
@@ -11107,7 +11107,7 @@ He smells a bit.	냄새가 좀 난다.	examine	npc	Prospector Percy
 It's getting cleaned in the channel of water.	물길에서 씻기고 있다.	examine	npc	Pay-dirt
 Professional miners don't actually whistle while they work.	전문 광부는 실제로 일하면서 휘파람을 불지 않는다.	examine	npc	Miner
 Designer of the 2014 Player Designed Content Motherlode Mine.	2014년 플레이어 디자인 콘텐츠 Motherlode Mine(노다지 광산)의 디자이너다.	examine	npc	Runite Minor
-He became a miner after his agoraphobia stopped him doing Sailing.	광장 공포증 때문에 Sailing(항해)을 못 하게 되자 광부가 되었다.	examine	npc	Miner
+He became a miner after his agoraphobia stopped him doing Sailing.	광장 공포증 때문에 Sailing(항해)를 못 하게 되자 광부가 되었다.	examine	npc	Miner
 Mine mine mine mine MINE!	캐자 캐자 캐자 캐자 내 거다!	examine	npc	Miner
 Mine mine mine mine HIS!	캐자 캐자 캐자 캐자 쟤 거다!	examine	npc	Miner
 He could have been a great ballet dancer if they'd let him try.	기회만 줬다면 위대한 발레리노가 됐을지도 모른다.	examine	npc	Miner
@@ -11393,7 +11393,7 @@ A greater denizen of the Abyss.	Abyss(심연)에 사는 상급 존재다.	examin
 The arch demon of death.	죽음의 대악마다.	examine	npc	Nechryarch
 A pirate, a seemingly intoxicated one.	해적이다. 아무래도 취한 것 같다.	examine	npc	Lieve McCracken
 This dummy is very susceptible to any sort of combat, and functions as any slayer task.	이 허수아비는 어떤 공격에도 아주 취약하며, 어떤 슬레이어 과제로도 인정된다.	examine	npc	Undead Combat dummy
-Count Check checks accounts for security.	Count Check(체크 백작)는 보안을 위해 계정을 체크한다.	examine	npc	Count Check
+Count Check checks accounts for security.	Count Check(체크 백작)은 보안을 위해 계정을 체크한다.	examine	npc	Count Check
 The apple fell far from the tree.	콩 심은 데 팥 났다.	examine	npc	Bologa
 He looks very dangerous.	아주 위험해 보인다.	examine	npc	Obor
 A warrior of Zamorak.	Zamorak(자모락)의 전사다.	examine	npc	Zamorak warrior
@@ -11427,7 +11427,7 @@ The most cuddly Spawn of the Guardian in the Deep.	Guardian in the Deep(깊은 �
 Taking the fight into enemy territory.	적지로 싸움을 끌고 간다.	examine	npc	Soldier
 Formerly a member of Xeric's elite tactical unit.	한때 Xeric(제릭)의 정예 전술 부대원이었다.	examine	npc	Vanguard
 Queen of the Abyssal Vespine. Her lifeforce is sustained by her connection to the Abyss.	Abyssal Vespine(심연의 베스파인)의 여왕이다. 그녀의 생명력은 Abyss(심연)와의 연결로 유지된다.	examine	npc	Vespula
-A portal has opened into the Abyss!	Abyss(심연)로 통하는 포털이 열렸다!	examine	npc	Abyssal portal
+A portal has opened into the Abyss!	Abyss(심연)으로 통하는 포털이 열렸다!	examine	npc	Abyssal portal
 An indigenous inhabitant of the caves.	동굴의 토착 거주민이다.	examine	npc	Lux grub
 A soldier of Queen Vespula.	Queen Vespula(베스풀라 여왕)의 병사다.	examine	npc	Vespine soldier
 An injured soldier of Queen Vespula.	Queen Vespula(베스풀라 여왕)의 다친 병사다.	examine	npc	Vespine soldier
@@ -12656,7 +12656,7 @@ Its only purpose is to protect and repair.	유일한 목적은 보호와 수복�
 The power of the Abyss has taken its toll on them.	Abyss(심연)의 힘이 그들에게 큰 대가를 치르게 했다.	examine	npc	Scarred greater demon
 Corrupted by the Abyss.	Abyss(심연)에 의해 타락했다.	examine	npc	Scarred hellhound
 A particularly weak demon that's trying to harness power from the Abyss.	Abyss(심연)의 힘을 다루려 애쓰는 유난히 약한 악마다.	examine	npc	Lesser demon
-The Abyss has not been kind to them.	Abyss(심연)는 그들에게 친절하지 않았다.	examine	npc	Scarred imp
+The Abyss has not been kind to them.	Abyss(심연)은 그들에게 친절하지 않았다.	examine	npc	Scarred imp
 A catalytic rune guardian.	촉매 룬 수호자다.	examine	npc	Catalytic Guardian
 Just who is he, anyway?	도대체 그는 누구일까?	examine	npc	Akthanakos
 Looks far stronger than the rest of them.	다른 녀석들보다 훨씬 강해 보인다.	examine	npc	Strangled
@@ -12960,7 +12960,7 @@ A newly-initiated member of the Twilight Emissaries.	Twilight Emissaries(황혼�
 Brittle, cold and shimmering with frost magic.	부서지기 쉽고 차가우며 서리 마법으로 반짝인다.	examine	npc	Frost Nagua
 An experienced member of the Twilight Emissaries.	Twilight Emissaries(황혼의 사절단)의 경험 많은 단원이다.	examine	npc	Emissary Chosen
 Keeping everyone fed.	모두의 끼니를 챙기고 있다.	examine	npc	Emissary Chef
-Catching fish for the Emissaries.	Emissaries(사절단)를 위해 물고기를 잡고 있다.	examine	npc	Emissary Fisher
+Catching fish for the Emissaries.	Emissaries(사절단)을 위해 물고기를 잡고 있다.	examine	npc	Emissary Fisher
 One of the cultist's goats. Not to be confused with a cultist goat.	광신도가 키우는 염소다. 광신도인 염소와 헷갈리지 말자.	examine	npc	Goat
 Looking after the goats.	염소들을 돌보고 있다.	examine	npc	Emissary Herder
 A fierce fighter of the Twilight Emissaries.	Twilight Emissaries(황혼의 사절단)의 사나운 투사다.	examine	npc	Emissary Brawler
@@ -13687,9 +13687,9 @@ Going down?	내려가시겠습니까?	examine	object	Ladder
 Going up?	올라가시겠습니까?	examine	object	Ladder
 An imposing stone structure.	위압적인 돌 구조물이다.	examine	object	Trellis
 A column of elemental power.	원소의 힘이 깃든 기둥이다.	examine	object	Obelisk of Earth
-A magical portal of teleportation, leading to the Wizards' Tower.	Wizards' Tower(마법사의 탑)로 이어지는 마법의 순간이동 포털이다.	examine	object	Wizards' Tower Portal
-A magical portal of teleportation, leading to the Dark Wizards' Tower.	Dark Wizards' Tower(어둠의 마법사의 탑)로 이어지는 마법의 순간이동 포털이다.	examine	object	Dark Wizards' Tower Portal
-A magical portal of teleportation, leading to the Sorcerer's Tower.	Sorcerer's Tower(소서러의 탑)로 이어지는 마법의 순간이동 포털이다.	examine	object	Sorcerer's Tower Portal
+A magical portal of teleportation, leading to the Wizards' Tower.	Wizards' Tower(마법사의 탑)으로 이어지는 마법의 순간이동 포털이다.	examine	object	Wizards' Tower Portal
+A magical portal of teleportation, leading to the Dark Wizards' Tower.	Dark Wizards' Tower(어둠의 마법사의 탑)으로 이어지는 마법의 순간이동 포털이다.	examine	object	Dark Wizards' Tower Portal
+A magical portal of teleportation, leading to the Sorcerer's Tower.	Sorcerer's Tower(소서러의 탑)으로 이어지는 마법의 순간이동 포털이다.	examine	object	Sorcerer's Tower Portal
 I doubt that was built to last...	오래 버티라고 지은 것 같지는 않다...	examine	object	Heap of bricks
 How do you make a skeleton laugh?	해골을 웃기려면 어떻게 할까? 뼈 있는 농담이라도 해야 하나?	examine	object	Corpse
 Smells like fish.	생선 냄새가 난다.	examine	object	Trawler net
@@ -13898,7 +13898,7 @@ I can try to make new items on this.	이 위에서 새 아이템을 만들어 �
 A solid looking gate.	튼튼해 보이는 대문이다.	examine	object	Gate
 Large doors made of solid oak.	단단한 참나무로 만든 커다란 문이다.	examine	object	Mine door entrance
 A solid looking chest, it belongs to Captain Siad.	튼튼해 보이는 상자다. Captain Siad(시아드 대장)의 것이다.	examine	object	Chest
-A selection of Captain Siad's Books.	Captain Siad(시아드 대장)가 고른 책들이다.	examine	object	Bookcase
+A selection of Captain Siad's Books.	Captain Siad(시아드 대장)이 고른 책들이다.	examine	object	Bookcase
 A barrel containing rocks and mining debris.	바위와 채광 잔해가 든 통이다.	examine	object	Barrel
 An empty mining barrel.	빈 채광용 통이다.	examine	object	Barrel
 Gives a lovely view of the desert, complete with metalic bars.	쇠창살 너머로 사막이 멋지게 내다보인다.	examine	object	Window
@@ -13935,7 +13935,7 @@ I wonder what's inside it.	안에 뭐가 들었을까.	examine	object	Chest
 A counter made from a stone block.	돌덩이로 만든 계산대다.	examine	object	Counter
 An ogre is selling cakes here.	오우거가 여기서 케이크를 팔고 있다.	examine	object	Counter
 A lever for activating something.	무언가를 작동시키는 레버다.	examine	object	Lever
-This leads to the Watchtower.	Watchtower(감시탑)로 이어지는 사다리다.	examine	object	Ladder
+This leads to the Watchtower.	Watchtower(감시탑)으로 이어지는 사다리다.	examine	object	Ladder
 I think I can squeeze through here...	여기로 비집고 들어갈 수 있을 것 같다...	examine	object	Cave entrance
 The gate has been locked shut.	대문이 굳게 잠겨 있다.	examine	object	Gate
 A strange-looking rock.	이상하게 생긴 바위다.	examine	object	Rock of Dalgroth
@@ -14151,7 +14151,7 @@ Makes human colanders.	사람을 체로 만들어 버린다.	examine	object	Floo
 I can use these to climb across to the other side.	이걸 잡고 반대편으로 건너갈 수 있다.	examine	object	Hand holds
 Looks suspiciously like a pressure pad to me.	아무리 봐도 압력판 같다.	examine	object	Pressure pad
 I can use this rope to climb back to the top.	이 밧줄을 타고 꼭대기로 다시 올라갈 수 있다.	examine	object	Climbing rope
-Leads down into the Agility Arena.	Agility Arena(민첩 경기장)로 내려가는 사다리다.	examine	object	Ladder
+Leads down into the Agility Arena.	Agility Arena(민첩 경기장)으로 내려가는 사다리다.	examine	object	Ladder
 Leads back to Brimhaven.	Brimhaven(브림헤이븐)으로 돌아가는 사다리다.	examine	object	Ladder
 Maybe it's for shooting at?	이걸 쏘라는 건가?	examine	object	Mannequin
 All books about runes...	전부 룬에 관한 책들이다...	examine	object	Bookcase
@@ -15747,7 +15747,7 @@ I can climb back to the surface.	다시 지상으로 올라갈 수 있다.	exami
 Nardah's main water supply.	Nardah(나르다)의 주 급수원이다.	examine	object	Fountain
 There's no water here.	여기엔 물이 없다.	examine	object	Fountain
 There should be a statue here.	여기에 조각상이 있어야 한다.	examine	object	Statuette Plinth
-The Elidinis Statuette is back in its place.	Elidinis Statuette(엘리디니스 조각상)가 제자리로 돌아왔다.	examine	object	Elidinis Statuette
+The Elidinis Statuette is back in its place.	Elidinis Statuette(엘리디니스 조각상)이 제자리로 돌아왔다.	examine	object	Elidinis Statuette
 A sitting stone.	앉을 수 있는 돌이다.	examine	object	Rock Chair
 Ali's cart, with his supply of water.	물을 싣고 있는 Ali(알리)의 수레다.	examine	object	Cart
 One of Ali's water barrels.	Ali(알리)의 물통 중 하나다.	examine	object	Barrel
@@ -15767,7 +15767,7 @@ Flags flying the Human colours.	Human(인간)을 상징하는 색의 깃발이 �
 Flags flying the Dwarf colours.	Dwarf(드워프)를 상징하는 색의 깃발이 휘날린다.	examine	object	Dwarf Flag
 Flags flying the Elf colours.	Elf(엘프)를 상징하는 색의 깃발이 휘날린다.	examine	object	Elf Flag
 Flags flying the Gnome colours.	Gnome(노움)을 상징하는 색의 깃발이 휘날린다.	examine	object	Gnome Flag
-Flags flying the Werewolf colours.	Werewolf(늑대인간)를 상징하는 색의 깃발이 휘날린다.	examine	object	Werewolf Flag
+Flags flying the Werewolf colours.	Werewolf(늑대인간)을 상징하는 색의 깃발이 휘날린다.	examine	object	Werewolf Flag
 Flags flying the TzHaar colours.	TzHaar(츠하르)를 상징하는 색의 깃발이 휘날린다.	examine	object	TzHaar Flag
 A metal portcullis.	금속 내리닫이 쇠창살문이다.	examine	object	Portcullis
 There's a trapdoor in its base.	밑부분에 바닥 문이 있다.	examine	object	Champion Statue
@@ -15949,7 +15949,7 @@ Warning! Contents may explode!	경고! 내용물이 폭발할 수 있음!	examin
 I wouldn't be surprised if bits land over in Lumbridge.	파편이 Lumbridge(럼브리지)까지 날아가도 놀랍지 않겠다.	examine	object	Barrel
 Rigged to blow.	터지도록 장치해 두었다.	examine	object	Barrel
 I can climb down here.	여기로 내려갈 수 있다.	examine	object	Climbing Net
-Full of gunpowder. I'd best be careful.	gunpowder(화약)가 가득하다. 조심하는 게 좋겠다.	examine	object	Powder Barrel
+Full of gunpowder. I'd best be careful.	gunpowder(화약)이 가득하다. 조심하는 게 좋겠다.	examine	object	Powder Barrel
 Stores repair items.	수리 도구를 보관한다.	examine	object	Repair Locker
 Cannons. Lots of cannons.	대포다. 대포가 잔뜩 있다.	examine	object	Gun Locker
 The only way to get up the mast.	돛대에 오르는 유일한 방법이다.	examine	object	Climbing net
@@ -16477,7 +16477,7 @@ It's got cider in it.	안에 사과주가 들어 있다.	examine	object	Cider ba
 An oak barrel of Asgarnian ale.	Asgarnian ale(아스가르니아 에일)이 든 참나무 통이다.	examine	object	Asgarnian ale
 An oak barrel of Greenman's ale.	Greenman's ale(그린맨 에일)이 든 참나무 통이다.	examine	object	Greenman's ale
 An oak barrel of Dragon Bitter.	Dragon Bitter(드래곤 비터)가 든 참나무 통이다.	examine	object	Dragon bitter
-An oak barrel of Chef's Delight.	Chef's Delight(요리사의 기쁨)가 든 참나무 통이다.	examine	object	Chef's Delight
+An oak barrel of Chef's Delight.	Chef's Delight(요리사의 기쁨)이 든 참나무 통이다.	examine	object	Chef's Delight
 A place for your pet to sleep.	애완동물이 잠자는 곳이다.	examine	object	Pet blanket
 Your pet would love to sleep here.	애완동물이 여기서 자는 걸 아주 좋아할 것이다.	examine	object	Pet basket
 A luxurious sleeping place for your pet.	애완동물을 위한 호화로운 잠자리다.	examine	object	Pet basket
@@ -16498,12 +16498,12 @@ Unusually enough, this barrel smells more strongly of rum than of fish.	희한�
 If they store fish in this dirty old barrow, I hope they clean them later!	이 더러운 낡은 손수레에 생선을 담는다면, 나중에 꼭 씻었으면 좋겠다!	examine	object	Barrow
 A barrow full of fish.	생선이 가득 담긴 손수레다.	examine	object	Barrow
 'Can I borrow a shallow barrow?' Now say that faster! FASTER!	'수레 수리 수레 손수레 좀 빌려줄래?' 이제 더 빨리 말해 봐! 더 빨리!	examine	object	Barrow
-Apparently there's a lot of paperwork involved in running a Fishing Colony.	Fishing Colony(어촌)를 운영하려면 서류 작업이 꽤 많은 모양이다.	examine	object	Herman's desk
+Apparently there's a lot of paperwork involved in running a Fishing Colony.	Fishing Colony(어촌)을 운영하려면 서류 작업이 꽤 많은 모양이다.	examine	object	Herman's desk
 A large net for pulling in fish.	물고기를 끌어 올리는 큰 그물이다.	examine	object	Net
 There is seaweed all over this fishing net.	이 낚시 그물에는 해초가 잔뜩 붙어 있다.	examine	object	Net
 A gateway to Lumbridge.	Lumbridge(럼브리지)로 가는 관문이다.	examine	object	Lumbridge Portal
 A gateway to Falador.	Falador(팔라도르)로 가는 관문이다.	examine	object	Falador Portal
-A gateway to Ardougne.	Ardougne(아르둔)로 가는 관문이다.	examine	object	Ardougne Portal
+A gateway to Ardougne.	Ardougne(아르둔)으로 가는 관문이다.	examine	object	Ardougne Portal
 An un-directed teak portal frame.	목적지가 정해지지 않은 티크 포털 틀이다.	examine	object	Portal frame
 An un-directed mahogany portal frame.	목적지가 정해지지 않은 마호가니 포털 틀이다.	examine	object	Portal frame
 An un-directed marble portal frame.	목적지가 정해지지 않은 대리석 포털 틀이다.	examine	object	Portal frame
@@ -16837,7 +16837,7 @@ This scaffold has been fully repaired.	이 비계는 완전히 수리되었다.	
 It's now fully-functional.	이제 완전히 작동한다.	examine	object	Lift Platform
 A crate of AMCE Beams-In-A-Box.	AMCE Beams-In-A-Box(AMCE 상자 속 들보)가 든 상자다.	examine	object	Crate
 A crate of AMCE Pulley-Beams-In-A-Box.	AMCE Pulley-Beams-In-A-Box(AMCE 상자 속 도르래 들보)가 든 상자다.	examine	object	Crate
-A crate of AMCE Ropes-In-A-Box.	AMCE Ropes-In-A-Box(AMCE 상자 속 밧줄)가 든 상자다.	examine	object	Crate
+A crate of AMCE Ropes-In-A-Box.	AMCE Ropes-In-A-Box(AMCE 상자 속 밧줄)이 든 상자다.	examine	object	Crate
 A limestone floor growth.	석회암이 바닥에서 자라난 것이다.	examine	object	Stalagmites
 You can build a treasure chest here.	여기에 보물 상자를 만들 수 있다.	examine	object	Treasure space
 You can buy a monster guard to go here.	여기에 둘 몬스터 경비를 살 수 있다.	examine	object	Monster space
@@ -16941,7 +16941,7 @@ A bookcase.	책장이다.	examine	object	Bookcase
 A hole in the ground.	땅에 난 구멍이다.	examine	object	Pit
 This bush seems to glow in the dim light of the cave.	이 덤불은 어두운 동굴 빛 속에서 빛나는 것 같다.	examine	object	Tchiki Monkey Nut Bush
 This banana tree has a strange reddish hue on the leaves.	이 바나나 나무는 잎에 이상한 붉은 기가 돈다.	examine	object	Strange banana tree
-This thin shaft of light is all the Tchiki Monkey Nut bush needs to grow.	Tchiki Monkey Nut bush(치키 원숭이 견과 덤불)가 자라는 데는 이 가느다란 빛줄기면 충분하다.	examine	object	Light
+This thin shaft of light is all the Tchiki Monkey Nut bush needs to grow.	Tchiki Monkey Nut bush(치키 원숭이 견과 덤불)이 자라는 데는 이 가느다란 빛줄기면 충분하다.	examine	object	Light
 A Banana Tree.	바나나 나무다.	examine	object	Banana tree
 The body of a Dwarf savaged by Goblins.	Goblin(고블린)들에게 물어뜯긴 Dwarf(드워프)의 시신이다.	examine	object	Dwarf remains
 A crate. You wonder what could be inside.	상자다. 안에 뭐가 들었을지 궁금하다.	examine	object	Crate
@@ -17049,7 +17049,7 @@ Conveniently located rocks.	딱 좋은 곳에 있는 바위다.	examine	object	I
 A conveniently located crate.	딱 좋은 곳에 있는 상자다.	examine	object	Inconspicuous crate (easy)
 Bars caging off an area.	구역을 막아 둔 쇠창살이다.	examine	object	Bars
 Stairs leading down.	아래로 이어지는 계단이다.	examine	object	Stairs
-A Bush with monkey nuts growing on it.	monkey nuts(원숭이 땅콩)가 열리는 덤불이다.	examine	object	Bush
+A Bush with monkey nuts growing on it.	monkey nuts(원숭이 땅콩)이 열리는 덤불이다.	examine	object	Bush
 A way out.	나가는 길이다.	examine	object	Exit
 A vine.	덩굴이다.	examine	object	Vine
 It's a long, hot rock.	길고 뜨거운 바위다.	examine	object	Rock
@@ -17371,7 +17371,7 @@ This is too damaged for the boat to be launched.	너무 많이 망가져서 배�
 This has been repaired so the boat can be launched.	수리가 끝나서 배를 띄울 수 있다.	examine	object	Boat Chute
 Rocks.	바위다.	examine	object	Rock
 Look like normal rocks with a faint glow.	희미하게 빛나는 평범한 바위 같다.	examine	object	Daeyalt rocks
-Daeyalt ore is placed in here.	Daeyalt ore(데이얄트 광석)를 여기에 담는다.	examine	object	Mine cart
+Daeyalt ore is placed in here.	Daeyalt ore(데이얄트 광석)을 여기에 담는다.	examine	object	Mine cart
 Where does this lead?	이건 어디로 이어질까?	examine	object	Ladder
 These stairs look pretty wrecked. Perhaps one day they can be fixed...	이 계단은 꽤 망가져 있다. 언젠가는 고칠 수 있을지도...	examine	object	Broken stairs
 This wall doesn't look too solid. Maybe I should look closer.	이 벽은 그리 단단해 보이지 않는다. 좀 더 자세히 살펴봐야겠다.	examine	object	Wall
@@ -18300,7 +18300,7 @@ Are you sure you want to touch that? It seems to be alive and looking at you.	�
 He should have run a virus checker more often.	바이러스 검사를 좀 자주 했어야 했는데.	examine	object	Skeleton
 They seem to have mould growing from them... ick!	곰팡이가 피어 있는 것 같다... 윽!	examine	object	Skeleton
 I'm sure he died of natural causes.  Like the plague...	분명 자연사였을 거다.  역병 같은...	examine	object	Skeleton
-A teleport to the Telekinetic Theatre.	Telekinetic Theatre(염력 극장)로 가는 순간이동 장치다.	examine	object	Telekinetic Teleport
+A teleport to the Telekinetic Theatre.	Telekinetic Theatre(염력 극장)으로 가는 순간이동 장치다.	examine	object	Telekinetic Teleport
 A teleport to the Enchanting Chamber.	Enchanting Chamber(마법 부여실)로 가는 순간이동 장치다.	examine	object	Enchanters Teleport
 A teleport to the Alchemists' Playground.	Alchemists' Playground(연금술사의 놀이터)로 가는 순간이동 장치다.	examine	object	Alchemists Teleport
 A teleport to the Creature Graveyard.	Creature Graveyard(생물 묘지)로 가는 순간이동 장치다.	examine	object	Graveyard Teleport
@@ -18333,7 +18333,7 @@ This vat is filled with water.	이 통은 물로 채워져 있다.	examine	objec
 This vat is filled with bad ale.	이 통은 상한 에일로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with bad cider.	이 통은 상한 사과주로 채워져 있다.	examine	object	Fermenting Vat
 This vat contains a mixture of water and barley malt.	이 통에는 물과 barley malt(보리 맥아)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
-This vat contains a mixture of water, barley malt, and Hammerstone hops.	이 통에는 물, barley malt(보리 맥아), Hammerstone hops(해머스톤 홉)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
+This vat contains a mixture of water, barley malt, and Hammerstone hops.	이 통에는 물, barley malt(보리 맥아), Hammerstone hops(해머스톤 홉)을 섞은 것이 들어 있다.	examine	object	Fermenting Vat
 Dwarven Stout is fermenting in this vat.	이 통에서 Dwarven Stout(드워프 스타우트)가 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with Dwarven Stout.	이 통은 Dwarven Stout(드워프 스타우트)로 채워져 있다.	examine	object	Fermenting Vat
 King Roald of Misthalin.	Misthalin(미스탈린)의 King Roald(로알드 왕)이다.	examine	object	Statue of a king
@@ -18423,7 +18423,7 @@ A display model of the druid stone circle.	드루이드 스톤 서클 모형이�
 A display of different runes.	여러 가지 룬을 전시한 것이다.	examine	object	Display case
 A display model of the runestone essence rocks.	룬 정수 바위 모형이다.	examine	object	Display case
 A map of the world.	세계 지도다.	examine	object	Display case
-A display of Robert the Strong in battle with Dragonkin.	Dragonkin(드래곤킨)과 싸우는 Robert the Strong(힘센 로버트)을 표현한 전시물이다.	examine	object	Display case
+A display of Robert the Strong in battle with Dragonkin.	Dragonkin(드래곤킨)과 싸우는 Robert the Strong(힘센 로버트)를 표현한 전시물이다.	examine	object	Display case
 A star chart.	성도다.	examine	object	Display case
 A display of seven knights' helms.	기사 일곱 명의 투구를 전시한 것이다.	examine	object	Display case
 A map of Morytania.	Morytania(모리타니아) 지도다.	examine	object	Display case
@@ -18440,7 +18440,7 @@ Some weapons and runes.	무기와 룬 몇 가지다.	examine	object	Display case
 A display of Zamorakian symbols.	Zamorak(자모락)교 상징을 전시한 것이다.	examine	object	Display case
 Excalibur, de-stoned.	돌에서 뽑아낸 Excalibur(엑스칼리버)다.	examine	object	Display case
 Broken arrows.	부러진 화살이다.	examine	object	Display case
-The Phoenix crossbow and Blackarm bands.	Phoenix crossbow(피닉스 석궁)와 Blackarm(블랙암) 갱단의 물품이다.	examine	object	Display case
+The Phoenix crossbow and Blackarm bands.	Phoenix crossbow(피닉스 석궁)과 Blackarm(블랙암) 갱단의 물품이다.	examine	object	Display case
 A human skeleton - un-undead.	인간 해골이다. 언데드가 아니라 그냥 데드.	examine	object	Display case
 Armour worn by White Knights.	White Knight(백기사)들이 입는 갑옷이다.	examine	object	Display case
 A mage arena guardian.	마법사 경기장의 수호자다.	examine	object	Display case
@@ -18452,7 +18452,7 @@ A box.	상자다.	examine	object	Box
 A stack of boxes.	쌓아 올린 상자 더미다.	examine	object	Stacked Boxes
 Some boxes.	상자 몇 개다.	examine	object	Boxes
 These bones have been picked clean... Something around here is hungry!	뼈가 깨끗이 발라져 있다... 이 근처에 굶주린 무언가가 있다!	examine	object	Skeleton
-This leads to the Witch's House.	Witch's House(마녀의 집)로 이어진다.	examine	object	Ladder
+This leads to the Witch's House.	Witch's House(마녀의 집)으로 이어진다.	examine	object	Ladder
 A piano with some sort of compartment.	무슨 칸이 달린 피아노다.	examine	object	Piano
 It's a rickety old drain pipe.	삐걱거리는 낡은 배수관이다.	examine	object	Drain Pipe
 A musical device.	음악을 트는 기계다.	examine	object	Gramophone
@@ -18490,7 +18490,7 @@ An empty cage.	빈 우리다.	examine	object	Cage
 This scroll has information about the dummy game.	이 두루마리에는 허수아비 게임에 대한 안내가 적혀 있다.	examine	object	Information Scroll
 This scroll has information about the catapult game.	이 두루마리에는 투석기 게임에 대한 안내가 적혀 있다.	examine	object	Information Scroll
 This vat is filled with mature Dwarven Stout.	이 통은 숙성된 Dwarven Stout(드워프 스타우트)로 채워져 있다.	examine	object	Fermenting Vat
-This vat contains a mixture of water, barley malt, and Asgarnian hops.	이 통에는 물, barley malt(보리 맥아), Asgarnian hops(아스가르니아 홉)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
+This vat contains a mixture of water, barley malt, and Asgarnian hops.	이 통에는 물, barley malt(보리 맥아), Asgarnian hops(아스가르니아 홉)을 섞은 것이 들어 있다.	examine	object	Fermenting Vat
 Asgarnian Ale is fermenting in this vat.	이 통에서 Asgarnian Ale(아스가르니아 에일)이 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with Asgarnian Ale.	이 통은 Asgarnian Ale(아스가르니아 에일)로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with mature Asgarnian Ale.	이 통은 숙성된 Asgarnian Ale(아스가르니아 에일)로 채워져 있다.	examine	object	Fermenting Vat
@@ -18498,16 +18498,16 @@ This vat contains a mixture of water, barley malt, and harralander.	이 통에�
 Greenman's Ale is fermenting in this vat.	이 통에서 Greenman's Ale(그린맨 에일)이 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with Greenman's Ale.	이 통은 Greenman's Ale(그린맨 에일)로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with mature Greenman's Ale.	이 통은 숙성된 Greenman's Ale(그린맨 에일)로 채워져 있다.	examine	object	Fermenting Vat
-This vat contains a mixture of water, barley malt, and Yanillian hops.	이 통에는 물, barley malt(보리 맥아), Yanillian hops(야닐리안 홉)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
+This vat contains a mixture of water, barley malt, and Yanillian hops.	이 통에는 물, barley malt(보리 맥아), Yanillian hops(야닐리안 홉)을 섞은 것이 들어 있다.	examine	object	Fermenting Vat
 Wizard's Mind Bomb is fermenting in this vat.	이 통에서 Wizard's Mind Bomb(마법사의 마인드 밤)이 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with Wizard's Mind Bomb.	이 통은 Wizard's Mind Bomb(마법사의 마인드 밤)으로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with mature Wizard's Mind Bomb.	이 통은 숙성된 Wizard's Mind Bomb(마법사의 마인드 밤)으로 채워져 있다.	examine	object	Fermenting Vat
-This vat contains a mixture of water, barley malt, and Krandorian hops.	이 통에는 물, barley malt(보리 맥아), Krandorian hops(크랜도리안 홉)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
+This vat contains a mixture of water, barley malt, and Krandorian hops.	이 통에는 물, barley malt(보리 맥아), Krandorian hops(크랜도리안 홉)을 섞은 것이 들어 있다.	examine	object	Fermenting Vat
 Dragon Bitter is fermenting in this vat.	이 통에서 Dragon Bitter(드래곤 비터)가 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with Dragon Bitter.	이 통은 Dragon Bitter(드래곤 비터)로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with mature Dragon Bitter.	이 통은 숙성된 Dragon Bitter(드래곤 비터)로 채워져 있다.	examine	object	Fermenting Vat
 This vat contains a mixture of water, barley malt, and bittercap mushrooms.	이 통에는 물, barley malt(보리 맥아), bittercap mushrooms(비터캡 버섯)을 섞은 것이 들어 있다.	examine	object	Fermenting Vat
-Moonlight Mead is fermenting in this vat.	이 통에서 Moonlight Mead(월광 벌꿀술)가 발효되고 있다.	examine	object	Fermenting Vat
+Moonlight Mead is fermenting in this vat.	이 통에서 Moonlight Mead(월광 벌꿀술)이 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with Moonlight Mead.	이 통은 Moonlight Mead(월광 벌꿀술)로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with mature Moonlight Mead.	이 통은 숙성된 Moonlight Mead(월광 벌꿀술)로 채워져 있다.	examine	object	Fermenting Vat
 This vat contains a mixture of water, barley malt, and oak roots.	이 통에는 물, barley malt(보리 맥아), oak roots(참나무 뿌리)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
@@ -18515,13 +18515,13 @@ Axeman's Folly is fermenting in this vat.	이 통에서 Axeman's Folly(도끼꾼
 This vat is filled with Axeman's Folly.	이 통은 Axeman's Folly(도끼꾼의 객기)로 채워져 있다.	examine	object	Fermenting Vat
 This vat is filled with mature Axeman's Folly.	이 통은 숙성된 Axeman's Folly(도끼꾼의 객기)로 채워져 있다.	examine	object	Fermenting Vat
 This vat contains a mixture of water, barley malt, and chocolate dust.	이 통에는 물, barley malt(보리 맥아), chocolate dust(초콜릿 가루)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
-Chef's Delight is fermenting in this vat.	이 통에서 Chef's Delight(요리사의 기쁨)가 발효되고 있다.	examine	object	Fermenting Vat
-This vat is filled with Chef's Delight.	이 통은 Chef's Delight(요리사의 기쁨)로 채워져 있다.	examine	object	Fermenting Vat
-This vat is filled with mature Chef's Delight.	이 통은 숙성된 Chef's Delight(요리사의 기쁨)로 채워져 있다.	examine	object	Fermenting Vat
-This vat contains a mixture of water, barley malt, and Wildblood hops.	이 통에는 물, barley malt(보리 맥아), Wildblood hops(와일드블러드 홉)를 섞은 것이 들어 있다.	examine	object	Fermenting Vat
-Slayer's Respite is fermenting in this vat.	이 통에서 Slayer's Respite(슬레이어의 휴식)가 발효되고 있다.	examine	object	Fermenting Vat
-This vat is filled with Slayer's Respite.	이 통은 Slayer's Respite(슬레이어의 휴식)로 채워져 있다.	examine	object	Fermenting Vat
-This vat is filled with mature Slayer's Respite.	이 통은 숙성된 Slayer's Respite(슬레이어의 휴식)로 채워져 있다.	examine	object	Fermenting Vat
+Chef's Delight is fermenting in this vat.	이 통에서 Chef's Delight(요리사의 기쁨)이 발효되고 있다.	examine	object	Fermenting Vat
+This vat is filled with Chef's Delight.	이 통은 Chef's Delight(요리사의 기쁨)으로 채워져 있다.	examine	object	Fermenting Vat
+This vat is filled with mature Chef's Delight.	이 통은 숙성된 Chef's Delight(요리사의 기쁨)으로 채워져 있다.	examine	object	Fermenting Vat
+This vat contains a mixture of water, barley malt, and Wildblood hops.	이 통에는 물, barley malt(보리 맥아), Wildblood hops(와일드블러드 홉)을 섞은 것이 들어 있다.	examine	object	Fermenting Vat
+Slayer's Respite is fermenting in this vat.	이 통에서 Slayer's Respite(슬레이어의 휴식)이 발효되고 있다.	examine	object	Fermenting Vat
+This vat is filled with Slayer's Respite.	이 통은 Slayer's Respite(슬레이어의 휴식)으로 채워져 있다.	examine	object	Fermenting Vat
+This vat is filled with mature Slayer's Respite.	이 통은 숙성된 Slayer's Respite(슬레이어의 휴식)으로 채워져 있다.	examine	object	Fermenting Vat
 This vat contains some apple mush.	이 통에는 apple mush(으깬 사과)가 들어 있다.	examine	object	Fermenting Vat
 Cider is fermenting in this vat.	이 통에서 사과주가 발효되고 있다.	examine	object	Fermenting Vat
 This vat is filled with cider.	이 통은 사과주로 채워져 있다.	examine	object	Fermenting Vat
@@ -18599,7 +18599,7 @@ A barbarian's anvil.	야만인의 모루다.	examine	object	Barbarian anvil
 A pile of old barbarian bones.	오래된 야만인 뼈 무더기다.	examine	object	Skeleton
 An area to hold one of Glough's smaller twisted creations.	Glough(글로우)의 작은 뒤틀린 피조물 하나를 가둬 두는 구역이다.	examine	object	Holding area
 A campfire. You can cook things on this.	모닥불이다. 이 위에서 음식을 요리할 수 있다.	examine	object	Campfire
-A tunnel through the Abyss.	Abyss(심연)를 관통하는 터널이다.	examine	object	Passage
+A tunnel through the Abyss.	Abyss(심연)을 관통하는 터널이다.	examine	object	Passage
 This seems to be blocking the exit...	이게 출구를 막고 있는 것 같다...	examine	object	Blockage
 Tells you where places are.	장소가 어디 있는지 알려 준다.	examine	object	Signpost
 An impressive display of the planets.	행성들을 인상적으로 재현한 모형이다.	examine	object	Orrery
@@ -19236,10 +19236,10 @@ Awarded to the people of Old School RuneScape by SpecialEffect.	SpecialEffect(�
 A handy table for putting stuff on.	물건을 올려 두기 편한 탁자다.	examine	object	Table
 You can build a combat dummy here.	여기에 전투 허수아비를 지을 수 있다.	examine	object	Combat dummy space
 A gateway to Kharyrll.	Kharyrll(카릴)로 가는 관문이다.	examine	object	Kharyrll Portal
-A gateway to Lunar Isle.	Lunar Isle(루나 섬)로 가는 관문이다.	examine	object	Lunar Isle Portal
+A gateway to Lunar Isle.	Lunar Isle(루나 섬)으로 가는 관문이다.	examine	object	Lunar Isle Portal
 A gateway to Senntisten.	Senntisten(센티스텐)으로 가는 관문이다.	examine	object	Senntisten Portal
 A gateway to Annakarl.	Annakarl(아나칼)로 가는 관문이다.	examine	object	Annakarl Portal
-A gateway to Waterbirth Island.	Waterbirth Island(워터버스 섬)로 가는 관문이다.	examine	object	Waterbirth Island Portal
+A gateway to Waterbirth Island.	Waterbirth Island(워터버스 섬)으로 가는 관문이다.	examine	object	Waterbirth Island Portal
 A gateway to the Fishing Guild.	Fishing Guild(낚시 길드)로 가는 관문이다.	examine	object	Fishing Guild Portal
 A gateway to Marim on Ape Atoll.	Ape Atoll(유인원 환초)의 Marim(마림)으로 가는 관문이다.	examine	object	Marim Portal
 A gateway to Kourend Castle.	Kourend Castle(쿠렌드 성)으로 가는 관문이다.	examine	object	Kourend Portal
@@ -19250,7 +19250,7 @@ I might be able to squeeze through.	비집고 지나갈 수 있을 것 같다.	e
 An altar upon which to craft runes.	룬을 제작하는 제단이다.	examine	object	Altar
 Into the darkness...	어둠 속으로...	examine	object	Ladder
 Into the light!	빛을 향해!	examine	object	Ladder
-Takes you back to Clan Wars.	Clan Wars(클랜 전쟁)로 돌아간다.	examine	object	Clan Wars portal
+Takes you back to Clan Wars.	Clan Wars(클랜 전쟁)으로 돌아간다.	examine	object	Clan Wars portal
 An enormous majestic tree.	거대하고 웅장한 나무다.	examine	object	Redwood tree
 This section of the tree has been carved out.	나무의 이 부분이 파내어져 있다.	examine	object	Redwood tree
 I can climb up the tree from the inside.	나무 안쪽을 타고 올라갈 수 있다.	examine	object	Carved redwood
@@ -19337,11 +19337,11 @@ Roughly carved from the wall of the cave.	동굴 벽을 거칠게 깎아 만들�
 Glory does not lie up there.	영광은 저 위에 있지 않다.	examine	object	Rope
 A noxifer herb is growing here.	noxifer(녹시퍼) 약초가 자라고 있다.	examine	object	Herb patch
 A golpar herb is growing here.	golpar(골파르) 약초가 자라고 있다.	examine	object	Herb patch
-A buchu leaf is growing here.	buchu leaf(부쿠 잎)가 자라고 있다.	examine	object	Herb patch
+A buchu leaf is growing here.	buchu leaf(부쿠 잎)이 자라고 있다.	examine	object	Herb patch
 A noxifer leaf herb is growing here.	noxifer(녹시퍼) 잎 약초가 자라고 있다.	examine	object	Herb patch
 A noxifer herb has grown here.	noxifer(녹시퍼) 약초가 다 자랐다.	examine	object	Herb patch
 A golpar herb has grown here.	golpar(골파르) 약초가 다 자랐다.	examine	object	Herb patch
-A buchu leaf has grown here.	buchu leaf(부쿠 잎)가 다 자랐다.	examine	object	Herb patch
+A buchu leaf has grown here.	buchu leaf(부쿠 잎)이 다 자랐다.	examine	object	Herb patch
 A bloodstained pile of rocks.	피로 얼룩진 돌무더기다.	examine	object	Rocks
 All of the meat has been stripped from this tree.	이 나무에서 고기가 전부 뜯겨 나갔다.	examine	object	Meat tree
 A small blood crystal.	작은 피의 크리스탈이다.	examine	object	Blood crystal
@@ -19672,15 +19672,15 @@ Books written by the great adventurers of Uhld.	Uhld(울드)의 위대한 모험
 See the sea. It's big and it's right in front of you, but someone might want a better view.	바다를 보라. 크고 바로 눈앞에 있지만, 누군가는 더 잘 보고 싶을지도 모른다.	examine	object	Telescope
 Useful for lighting a fire.	불을 피우는 데 유용하다.	examine	object	Tinderbox
 The Guardian of Dusk keeps watch to the west.	Guardian of Dusk(황혼의 수호자)가 서쪽을 지키고 있다.	examine	object	Stone Plinth
-The Guardian of Dawn keeps watch to the east.	Guardian of Dawn(새벽의 수호자)이 동쪽을 지키고 있다.	examine	object	Stone Plinth
+The Guardian of Dawn keeps watch to the east.	Guardian of Dawn(새벽의 수호자)가 동쪽을 지키고 있다.	examine	object	Stone Plinth
 A staircase to the Slayer Tower's roof.	Slayer Tower(슬레이어 탑) 옥상으로 올라가는 계단이다.	examine	object	Roof Entrance
-A staircase back down to the Slayer Tower.	Slayer Tower(슬레이어 탑)로 다시 내려가는 계단이다.	examine	object	Roof Exit
+A staircase back down to the Slayer Tower.	Slayer Tower(슬레이어 탑)으로 다시 내려가는 계단이다.	examine	object	Roof Exit
 Contains items from those who died on the roof.	옥상에서 죽은 이들의 물건이 들어 있다.	examine	object	Magical Chest
 A small energy sphere. It's growing.	작은 에너지 구체다. 점점 커지고 있다.	examine	object	Energy Sphere
 A medium sized energy sphere. It's glowing with energy.	중간 크기의 에너지 구체다. 에너지로 빛나고 있다.	examine	object	Energy Sphere
 A large energy sphere. It's bursting with energy.	커다란 에너지 구체다. 에너지가 넘쳐 터질 듯하다.	examine	object	Energy Sphere
 To be struck in times of conflict.	분쟁이 일어났을 때 울리는 종이다.	examine	object	The Cloister Bell
-A large display of the Grotesque Guardians atop the Slayer Tower Roof.	Slayer Tower(슬레이어 탑) 옥상의 Grotesque Guardians(그로테스크 가디언)를 담은 큰 전시물이다.	examine	object	Grotesque Guardians' display
+A large display of the Grotesque Guardians atop the Slayer Tower Roof.	Slayer Tower(슬레이어 탑) 옥상의 Grotesque Guardians(그로테스크 가디언)을 담은 큰 전시물이다.	examine	object	Grotesque Guardians' display
 Who knows what could be down here.	이 아래에 뭐가 있을지 누가 알겠는가.	examine	object	Cave
 I can use this to climb out of here.	이걸 이용해 여기서 기어 나갈 수 있다.	examine	object	Sand pile
 Someone has tied a rope here.	누군가 여기에 밧줄을 묶어 두었다.	examine	object	Tunnel entrance
@@ -19845,7 +19845,7 @@ A carving of a dragon's skull.	드래곤 해골 조각상이다.	examine	object	
 An ancient metallic anvil, completely undamaged or corroded despite its age.	오래된 금속 모루다. 세월이 흘렀는데도 전혀 손상되거나 부식되지 않았다.	examine	object	Anvil
 Some hammers.	망치들이다.	examine	object	Hammers
 Some water containers.	물통들이다.	examine	object	Water containers
-Some swamp paste.	swamp paste(늪 반죽)가 조금 있다.	examine	object	Swamp paste
+Some swamp paste.	swamp paste(늪 반죽)이 조금 있다.	examine	object	Swamp paste
 Some potions.	물약들이다.	examine	object	Potions
 To destroy all you've done.	네가 이룬 모든 것을 무너뜨리려고 타오른다.	examine	object	Fire
 Might want to deal with that.	손을 좀 봐야 할 것 같다.	examine	object	Leak
@@ -19878,8 +19878,8 @@ It has a bust of Tristan sat upon it.	Tristan(트리스탄)의 흉상이 놓여 
 It has a bust of Aivas sat upon it.	Aivas(아이바스)의 흉상이 놓여 있다.	examine	object	Plinth
 Used to store things.	물건을 보관하는 데 쓴다.	examine	object	Item Chest
 A grid of sorts. It seems to be missing most of the pieces.	일종의 격자판이다. 조각 대부분이 빠져 있는 것 같다.	examine	object	Strange grid
-A map of Fossil Island and the surrounding areas. Most of the pieces are missing.	Fossil Island(화석 섬)와 그 주변 지역의 지도다. 조각 대부분이 빠져 있다.	examine	object	Incomplete map
-A map of Fossil Island and the surrounding areas.	Fossil Island(화석 섬)와 그 주변 지역의 지도다.	examine	object	Map
+A map of Fossil Island and the surrounding areas. Most of the pieces are missing.	Fossil Island(화석 섬)과 그 주변 지역의 지도다. 조각 대부분이 빠져 있다.	examine	object	Incomplete map
+A map of Fossil Island and the surrounding areas.	Fossil Island(화석 섬)과 그 주변 지역의 지도다.	examine	object	Map
 Maybe there's something hidden here.	여기 뭔가 숨겨져 있을지도 모른다.	examine	object	Fungi
 I could build a rowboat here.	여기에 노 젓는 배를 만들 수 있겠다.	examine	object	Rowboat space
 A strange barrier.	이상한 장벽이다.	examine	object	Energy Barrier
@@ -19950,7 +19950,7 @@ Looks to be adorned with the crest of Darkmeyer.	Darkmeyer(다크마이어)의 �
 Looks like a door. Don't really know what you expected here.	문처럼 생겼다. 대체 뭘 기대했는지 모르겠다.	examine	object	Door
 Better not ask for a blood transaction.	'피 같은 돈' 얘기는 꺼내지 않는 게 좋겠다.	examine	object	Bank booth
 This booth appears to be closed. Go figure.	이 창구는 닫힌 것 같다. 뭐, 그렇지.	examine	object	Closed bank booth
-Depicts a Vyrelady from the past.	과거의 Vyrelady(바이어 귀부인)를 묘사한 것이다.	examine	object	Statue
+Depicts a Vyrelady from the past.	과거의 Vyrelady(바이어 귀부인)을 묘사한 것이다.	examine	object	Statue
 Maybe it's a scene from Morytania.	Morytania(모리타니아)의 한 장면일지도 모른다.	examine	object	Easel
 A hefty throne.	육중한 왕좌다.	examine	object	Verzik's throne
 An immense pillar supporting the roof.	지붕을 받치는 거대한 기둥이다.	examine	object	Supporting Pillar
@@ -20019,7 +20019,7 @@ Handy for climbing cliffs.	절벽을 오를 때 유용하다.	examine	object	Rop
 Barren rock.	메마른 바위다.	examine	object	Cliff
 A narrow ledge, not even as wide as My Arm.	팔 하나 너비도 안 되는, My Arm(마이 암)만큼도 안 되는 좁은 바위 턱이다.	examine	object	Ledge
 Nothing's set in stone.	바위라고 영원히 그 자리에 있으란 법은 없다.	examine	object	Rockslide
-It's like if someone were training Woodcutting but not Firemaking.	누군가 Woodcutting(벌목)만 수련하고 Firemaking(불 피우기)은 수련하지 않은 것 같다.	examine	object	Fallen Tree
+It's like if someone were training Woodcutting but not Firemaking.	누군가 Woodcutting(벌목)만 수련하고 Firemaking(불 피우기)는 수련하지 않은 것 같다.	examine	object	Fallen Tree
 It's blocked; you couldn't get your arm through there, nor My Arm neither.	막혀 있다. 네 팔도, My Arm(마이 암)도 들어갈 수 없다.	examine	object	Cave entrance
 You and your arm and My Arm can get through here now.	이제 너도, 네 팔도, My Arm(마이 암)도 여기로 지나갈 수 있다.	examine	object	Cave entrance
 Someone was jolly brave rowing this around here. It likely didn't end well for them.	이 근처에서 이걸 저었다니 참 용감한 사람이었나 보다. 끝이 좋지는 않았을 것이다.	examine	object	Wrecked boat
@@ -20133,10 +20133,10 @@ This White lily has become diseased.	이 White lily(백합)은 병들었다.	exa
 This White lily has died while growing.	이 White lily(백합)은 자라다가 죽었다.	examine	object	Dead White lily
 This White lily has died.	이 White lily(백합)은 죽었다.	examine	object	Dead White lily
 Snape grass seeds have been planted in this allotment.	이 텃밭에 Snape grass(스네이프 풀) 씨앗이 심겨 있다.	examine	object	Snape grass seedling
-Snape grass is growing in this allotment.	이 텃밭에서 Snape grass(스네이프 풀)가 자라고 있다.	examine	object	Snape grass plant
-These snape grass plants are fully grown.	이 snape grass(스네이프 풀)는 다 자랐다.	examine	object	Snape grass plant
-These snape grass plants are diseased.	이 snape grass(스네이프 풀)는 병들었다.	examine	object	Diseased Snape grass
-These snape grass plants are dead.	이 snape grass(스네이프 풀)는 죽었다.	examine	object	Dead Snape grass
+Snape grass is growing in this allotment.	이 텃밭에서 Snape grass(스네이프 풀)이 자라고 있다.	examine	object	Snape grass plant
+These snape grass plants are fully grown.	이 snape grass(스네이프 풀)은 다 자랐다.	examine	object	Snape grass plant
+These snape grass plants are diseased.	이 snape grass(스네이프 풀)은 병들었다.	examine	object	Diseased Snape grass
+These snape grass plants are dead.	이 snape grass(스네이프 풀)은 죽었다.	examine	object	Dead Snape grass
 You can grow Celastrus trees in this Farming patch.	이 Farming patch(농사 밭)에서 Celastrus tree(셀라스트루스 나무)를 키울 수 있다.	examine	object	Celastrus patch
 A Celastrus tree has been planted in this patch.	이 밭에 Celastrus tree(셀라스트루스 나무)가 심겨 있다.	examine	object	Celastrus tree
 A fully harvested Celastrus tree.	완전히 수확한 Celastrus tree(셀라스트루스 나무)다.	examine	object	Harvested Celastrus tree
@@ -20146,10 +20146,10 @@ A hespori plant is growing here.	hespori(헤스포리) 식물이 자라고 있�
 A fully grown hespori plant.	다 자란 hespori(헤스포리) 식물이다.	examine	object	Hespori
 A dead hespori plant.	죽은 hespori(헤스포리) 식물이다.	examine	object	Hespori
 Potato cactus seeds have been planted in this patch.	이 밭에 Potato cactus(감자 선인장) 씨앗이 심겨 있다.	examine	object	Potato cactus
-A Potato cactus is growing in this patch.	이 밭에서 Potato cactus(감자 선인장)가 자라고 있다.	examine	object	Potato cactus
+A Potato cactus is growing in this patch.	이 밭에서 Potato cactus(감자 선인장)이 자라고 있다.	examine	object	Potato cactus
 A fully grown potato cacti plant.	다 자란 potato cacti(감자 선인장)다.	examine	object	Potato cactus
-This Potato cactus has become diseased.	이 Potato cactus(감자 선인장)는 병들었다.	examine	object	Diseased Potato cactus
-This Potato cactus has died.	이 Potato cactus(감자 선인장)는 죽었다.	examine	object	Dead Potato cactus
+This Potato cactus has become diseased.	이 Potato cactus(감자 선인장)은 병들었다.	examine	object	Diseased Potato cactus
+This Potato cactus has died.	이 Potato cactus(감자 선인장)은 죽었다.	examine	object	Dead Potato cactus
 This compost bin contains compostable items (1/30).	이 퇴비통에 퇴비가 될 재료가 들어 있다 (1/30).	examine	object	Big Compost Bin
 This compost bin contains compostable items (2/30).	이 퇴비통에 퇴비가 될 재료가 들어 있다 (2/30).	examine	object	Big Compost Bin
 This compost bin contains compostable items (3/30).	이 퇴비통에 퇴비가 될 재료가 들어 있다 (3/30).	examine	object	Big Compost Bin
@@ -20325,7 +20325,7 @@ This compost bin contains ultracompost (26/30).	이 퇴비통에는 ultracompost
 This compost bin contains ultracompost (27/30).	이 퇴비통에는 ultracompost(울트라 퇴비)가 들어 있다 (27/30).	examine	object	Big Compost Bin
 This compost bin contains ultracompost (28/30).	이 퇴비통에는 ultracompost(울트라 퇴비)가 들어 있다 (28/30).	examine	object	Big Compost Bin
 This compost bin contains ultracompost (29/30).	이 퇴비통에는 ultracompost(울트라 퇴비)가 들어 있다 (29/30).	examine	object	Big Compost Bin
-You can grow Anima plants in this Farming patch.	이 농사 밭에서는 Anima plants(아니마 식물)를 기를 수 있다.	examine	object	Anima patch
+You can grow Anima plants in this Farming patch.	이 농사 밭에서는 Anima plants(아니마 식물)을 기를 수 있다.	examine	object	Anima patch
 An Iasor plant sapling has been planted in this anima patch.	이 anima patch(아니마 밭)에 Iasor plant(이아소르 식물) 묘목이 심겨 있다.	examine	object	Iasor plant
 An Iasor plant is growing in this anima patch.	Iasor plant(이아소르 식물)이 이 anima patch(아니마 밭)에서 자라고 있다.	examine	object	Iasor plant
 A fully grown Iasor plant	다 자란 Iasor plant(이아소르 식물)이다.	examine	object	Iasor plant
@@ -20421,13 +20421,13 @@ You unlocked this chest with a special key.	특별한 열쇠로 이 상자를 �
 A pile of bricks dislodged from the wall nearby.	근처 벽에서 떨어져 나온 벽돌 더미다.	examine	object	Rubble
 A small pile of bricks dislodged from the wall nearby.	근처 벽에서 떨어져 나온 작은 벽돌 더미다.	examine	object	Rubble
 There used to be a pile of bricks here, dislodged from the wall nearby.	근처 벽에서 떨어져 나온 벽돌 더미가 예전에 여기 있었다.	examine	object	Rubble
-Raids II: Theatre of Blood was released on June 7th, 2018.	Raids II: Theatre of Blood(레이드 II: 피의 극장)는 2018년 6월 7일에 출시되었다.	examine	object	Verzik Vitur display
+Raids II: Theatre of Blood was released on June 7th, 2018.	Raids II: Theatre of Blood(레이드 II: 피의 극장)은 2018년 6월 7일에 출시되었다.	examine	object	Verzik Vitur display
 The quest 'Making Friends with My Arm' was released on September 6th, 2018.	퀘스트 'Making Friends with My Arm(마이 암과 친구 되기)'는 2018년 9월 6일에 출시되었다.	examine	object	Making Friends with My Arm display
 Hot pink!	핫핑크다!	examine	object	Fire
 Adventure anywhere! Old School RuneScape Mobile was released globally during Wint- No, that's wrong...Umm, October 30th, 2018.	어디서나 모험을! Old School RuneScape Mobile(올드 스쿨 룬스케이프 모바일)은 겨울에 전 세계 출- 아니, 틀렸네... 음, 2018년 10월 30일에 출시되었다.	examine	object	Magic Mirror
 The Kebos Lowlands, where Mount Karuulm slayer dungeon is located, were released on January 10th, 2019.	Mount Karuulm(카룰름 산) 슬레이어 던전이 있는 Kebos Lowlands(케보스 저지대)는 2019년 1월 10일에 출시되었다.	examine	object	Alchemical Hydra display
 The Kebos Lowlands, where the Farming Guild is located, were released on January 10th, 2019.	Farming Guild(농사 길드)가 있는 Kebos Lowlands(케보스 저지대)는 2019년 1월 10일에 출시되었다.	examine	object	Attas plant display
-Leather shields were released on February 1st, 2018.	Leather shields(가죽 방패들)는 2018년 2월 1일에 출시되었다.	examine	object	Leather shields
+Leather shields were released on February 1st, 2018.	Leather shields(가죽 방패들)은 2018년 2월 1일에 출시되었다.	examine	object	Leather shields
 Bryophyta was released on April 23rd, 2018.	Bryophyta(브리오피타)는 2018년 4월 23일에 출시되었다.	examine	object	Bryophyta display
 An offshoot of the hespori in flower.	꽃이 핀 hespori(헤스포리)의 곁가지다.	examine	object	Blooming Hespori sprout
 A shrivelled plant.	쪼그라든 식물이다.	examine	object	Shrivelled plant
@@ -20668,9 +20668,9 @@ An ornate steel box featuring many enchanted sapphire, emerald and dragonstone j
 A special crate that can be filled with supplies.	보급품을 채울 수 있는 특별한 나무 상자다.	examine	object	Bounty supply crate
 A remnant of the distant past.	머나먼 과거의 잔재다.	examine	object	Remnant
 A gateway to Weiss.	Weiss(바이스)로 가는 관문이다.	examine	object	Weiss Portal
-A gateway to Draynor Manor.	Draynor Manor(드레이너 저택)로 가는 관문이다.	examine	object	Draynor Manor Portal
-A gateway to the Kebos Battlefront.	Kebos Battlefront(케보스 전선)로 가는 관문이다.	examine	object	Battlefront Portal
-A gateway to the Mind Altar.	Mind Altar(마인드 제단)로 가는 관문이다.	examine	object	Mind Altar Portal
+A gateway to Draynor Manor.	Draynor Manor(드레이너 저택)으로 가는 관문이다.	examine	object	Draynor Manor Portal
+A gateway to the Kebos Battlefront.	Kebos Battlefront(케보스 전선)으로 가는 관문이다.	examine	object	Battlefront Portal
+A gateway to the Mind Altar.	Mind Altar(마인드 제단)으로 가는 관문이다.	examine	object	Mind Altar Portal
 A gateway to the Salve Graveyard.	Salve Graveyard(살브 묘지)로 가는 관문이다.	examine	object	Salve Graveyard Portal
 A gateway to Fenkenstrain's Castle.	Fenkenstrain's Castle(펜켄스트레인의 성)으로 가는 관문이다.	examine	object	Fenkenstrain's Castle Portal
 A gateway to West Ardougne.	West Ardougne(서 아르둔)으로 가는 관문이다.	examine	object	West Ardougne Portal
@@ -21027,7 +21027,7 @@ Only the blue team may pass.	파란 팀만 지나갈 수 있다.	examine	object	
 Only the red team may pass.	빨간 팀만 지나갈 수 있다.	examine	object	Red Barrier
 Prevents entry to the sanctuary.	성역으로 들어가지 못하게 막는다.	examine	object	Neutral Barrier
 You may leave the tutorial by using this.	이걸 이용하면 튜토리얼을 떠날 수 있다.	examine	object	Portal
-There are some potions of power here.	potions of power(힘의 물약)가 몇 병 있다.	examine	object	Potion of power table
+There are some potions of power here.	potions of power(힘의 물약)이 몇 병 있다.	examine	object	Potion of power table
 Nomad's tent.	유목민의 천막이다.	examine	object	Tent
 You may leave the game by stepping through this.	이 안으로 걸어 들어가면 게임을 떠날 수 있다.	examine	object	Portal
 I can store my items here.	여기에 아이템을 보관할 수 있다.	examine	object	Bank chest
@@ -21187,10 +21187,10 @@ You think you see a tentacle wave at you. Must be the storm playing tricks on yo
 That was shattered by an incredible force!	엄청난 힘에 산산조각 났다!	examine	object	Broken rail
 It looks like it's holding on.	간신히 버티고 있는 것 같다.	examine	object	Rail
 Useful for bailing.	물을 퍼내는 데 유용하다.	examine	object	Bailing buckets
-Useful for chopping Krakens.	Krakens(크라켄)를 써는 데 유용하다.	examine	object	Axes
+Useful for chopping Krakens.	Krakens(크라켄)을 써는 데 유용하다.	examine	object	Axes
 A mystic, barronite-fueled forge.	barronite(바로나이트)로 불을 지피는 신비한 대장간이다.	examine	object	Sacred Forge
-A gateway to the Arceuus Library.	Arceuus Library(아르세우스 도서관)로 통하는 관문이다.	examine	object	Arceuus Library Portal
-A gateway to the Arceuus Library	Arceuus Library(아르세우스 도서관)로 통하는 관문	examine	object	Arceuus Library Portal
+A gateway to the Arceuus Library.	Arceuus Library(아르세우스 도서관)으로 통하는 관문이다.	examine	object	Arceuus Library Portal
+A gateway to the Arceuus Library	Arceuus Library(아르세우스 도서관)으로 통하는 관문	examine	object	Arceuus Library Portal
 They look healthy.	건강해 보인다.	examine	object	Skeleton
 It's full of compost.	퇴비로 가득하다.	examine	object	Compost Bin
 Looks to go down into a basement.	지하실로 내려가는 것 같다.	examine	object	Ladder
@@ -21454,18 +21454,18 @@ I wumbo.	난 엄보한다.	examine	object	Rock
 Might be something good inside that rift...	저 균열 안에 뭔가 좋은 게 있을지도...	examine	object	Rewards Guardian
 Standard wizard expedition asset. Perfect for sending new discoveries back home.	마법사 탐사대의 표준 장비다. 새로 발견한 것을 고향으로 보내기에 딱이다.	examine	object	Deposit Pool
 A statue of someone important.	중요한 인물의 조각상이다.	examine	object	Statue
-When active, the rift opens a passage to the Air Altar.	활성화되면 균열이 Air Altar(공기의 제단)로 가는 통로를 연다.	examine	object	Guardian of Air
-When active, the rift opens a passage to the Water Altar.	활성화되면 균열이 Water Altar(물의 제단)로 가는 통로를 연다.	examine	object	Guardian of Water
-When active, the rift opens a passage to the Earth Altar.	활성화되면 균열이 Earth Altar(대지의 제단)로 가는 통로를 연다.	examine	object	Guardian of Earth
-When active, the rift opens a passage to the Fire Altar.	활성화되면 균열이 Fire Altar(불의 제단)로 가는 통로를 연다.	examine	object	Guardian of Fire
-When active, the rift opens a passage to the Mind Altar.	활성화되면 균열이 Mind Altar(정신의 제단)로 가는 통로를 연다.	examine	object	Guardian of Mind
-When active, the rift opens a passage to the Chaos Altar.	활성화되면 균열이 Chaos Altar(혼돈의 제단)로 가는 통로를 연다.	examine	object	Guardian of Chaos
-When active, the rift opens a passage to the Death Altar.	활성화되면 균열이 Death Altar(죽음의 제단)로 가는 통로를 연다.	examine	object	Guardian of Death
-When active, the rift opens a passage to the Blood Altar.	활성화되면 균열이 Blood Altar(피의 제단)로 가는 통로를 연다.	examine	object	Guardian of Blood
-When active, the rift opens a passage to the Body Altar.	활성화되면 균열이 Body Altar(육체의 제단)로 가는 통로를 연다.	examine	object	Guardian of Body
-When active, the rift opens a passage to the Cosmic Altar.	활성화되면 균열이 Cosmic Altar(우주의 제단)로 가는 통로를 연다.	examine	object	Guardian of Cosmic
-When active, the rift opens a passage to the Nature Altar.	활성화되면 균열이 Nature Altar(자연의 제단)로 가는 통로를 연다.	examine	object	Guardian of Nature
-When active, the rift opens a passage to the Law Altar.	활성화되면 균열이 Law Altar(법의 제단)로 가는 통로를 연다.	examine	object	Guardian of Law
+When active, the rift opens a passage to the Air Altar.	활성화되면 균열이 Air Altar(공기의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Air
+When active, the rift opens a passage to the Water Altar.	활성화되면 균열이 Water Altar(물의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Water
+When active, the rift opens a passage to the Earth Altar.	활성화되면 균열이 Earth Altar(대지의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Earth
+When active, the rift opens a passage to the Fire Altar.	활성화되면 균열이 Fire Altar(불의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Fire
+When active, the rift opens a passage to the Mind Altar.	활성화되면 균열이 Mind Altar(정신의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Mind
+When active, the rift opens a passage to the Chaos Altar.	활성화되면 균열이 Chaos Altar(혼돈의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Chaos
+When active, the rift opens a passage to the Death Altar.	활성화되면 균열이 Death Altar(죽음의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Death
+When active, the rift opens a passage to the Blood Altar.	활성화되면 균열이 Blood Altar(피의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Blood
+When active, the rift opens a passage to the Body Altar.	활성화되면 균열이 Body Altar(육체의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Body
+When active, the rift opens a passage to the Cosmic Altar.	활성화되면 균열이 Cosmic Altar(우주의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Cosmic
+When active, the rift opens a passage to the Nature Altar.	활성화되면 균열이 Nature Altar(자연의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Nature
+When active, the rift opens a passage to the Law Altar.	활성화되면 균열이 Law Altar(법의 제단)으로 가는 통로를 연다.	examine	object	Guardian of Law
 I can see into another dimension!	다른 차원이 들여다보인다!	examine	object	Abyssal Rift
 Looks to have fallen in battle.	전투에서 쓰러진 것 같다.	examine	object	Guardian parts
 The remains of a rune guardian.	룬 수호자의 잔해다.	examine	object	Guardian remains
@@ -21489,7 +21489,7 @@ A strong wall of energy to deflect abyssal creatures.	심연의 생물을 막아
 A very strong wall of energy to deflect abyssal creatures.	심연의 생물을 막아 내는 아주 강한 에너지 벽이다.	examine	object	Overcharged Barrier
 Guides the elemental guardians to defend the temple.	원소 수호자들이 신전을 지키도록 이끈다.	examine	object	Elemental guide
 Guides the catalytic guardians to defend the temple.	촉매 수호자들이 신전을 지키도록 이끈다.	examine	object	Catalytic guide
-A sturdy bench with some basic tools, pure essence and guardian fragments.	기본 도구와 pure essence(순수 정수), guardian fragments(수호자 파편)가 놓인 튼튼한 작업대다.	examine	object	Workbench
+A sturdy bench with some basic tools, pure essence and guardian fragments.	기본 도구와 pure essence(순수 정수), guardian fragments(수호자 파편)이 놓인 튼튼한 작업대다.	examine	object	Workbench
 A wall that appears to be damaged.	손상된 것처럼 보이는 벽이다.	examine	object	Strange Wall
 A mysterious portal.	수수께끼의 포털이다.	examine	object	Portal
 A concentration of earth energy.	대지 에너지가 응축된 것이다.	examine	object	Earth Energy
@@ -21502,8 +21502,8 @@ An odd-looking stone.	이상해 보이는 돌이다.	examine	object	Mysterious S
 A strange statue.	이상한 조각상이다.	examine	object	Statue
 An ancient table with some pure essence on it.	pure essence(순수 정수)가 조금 놓인 고대 탁자다.	examine	object	Table
 An ancient table with some strange-looking containers on it.	이상하게 생긴 용기 몇 개가 놓인 고대 탁자다.	examine	object	Table
-The rift is a passage to the Water Altar.	이 균열은 Water Altar(물의 제단)로 가는 통로다.	examine	object	Guardian of Water
-The rift is a passage to the Mind Altar.	이 균열은 Mind Altar(정신의 제단)로 가는 통로다.	examine	object	Guardian of Mind
+The rift is a passage to the Water Altar.	이 균열은 Water Altar(물의 제단)으로 가는 통로다.	examine	object	Guardian of Water
+The rift is a passage to the Mind Altar.	이 균열은 Mind Altar(정신의 제단)으로 가는 통로다.	examine	object	Guardian of Mind
 A strange abyssal plant.	심연의 이상한 식물이다.	examine	object	Plant
 Looks like a large water-powered piece of machinery that's been left in disrepair.	방치되어 망가진 커다란 수력 기계 장치 같다.	examine	object	Broken trip hammer
 A large water-powered piece of machinery.	커다란 수력 기계 장치다.	examine	object	Repaired trip hammer
@@ -21711,13 +21711,13 @@ Contains spoils from the tombs.	무덤에서 얻은 전리품이 들어 있다.	
 A fake door... I wonder if it will open?	가짜 문이다... 열리기는 할까?	examine	object	False Door
 Leads down below...	아래로 이어진다...	examine	object	Entry
 Someone had a smashing time trying to move these.	누군가 이걸 옮기려다 아주 산산조각 나게 즐거운 시간을 보냈다.	examine	object	Urn
-Walk the Path of Scabaras?	Path of Scabaras(스카바라스의 길)를 걷겠는가?	examine	object	Path of Scabaras
+Walk the Path of Scabaras?	Path of Scabaras(스카바라스의 길)을 걷겠는가?	examine	object	Path of Scabaras
 Another path has been started.	이미 다른 길을 시작했다.	examine	object	Path of Scabaras
-The Path of Scabaras has been completed.	Path of Scabaras(스카바라스의 길)를 완료했다.	examine	object	Path of Scabaras
+The Path of Scabaras has been completed.	Path of Scabaras(스카바라스의 길)을 완료했다.	examine	object	Path of Scabaras
 Walk the Path of Apmeken?	Path of Apmeken(앱메켄의 길)을 걷겠는가?	examine	object	Path of Apmeken
 The Path of Apmeken has been completed.	Path of Apmeken(앱메켄의 길)을 완료했다.	examine	object	Path of Apmeken
-Walk the Path of Crondis?	Path of Crondis(크론디스의 길)를 걷겠는가?	examine	object	Path of Crondis
-The Path of Crondis has been completed.	Path of Crondis(크론디스의 길)를 완료했다.	examine	object	Path of Crondis
+Walk the Path of Crondis?	Path of Crondis(크론디스의 길)을 걷겠는가?	examine	object	Path of Crondis
+The Path of Crondis has been completed.	Path of Crondis(크론디스의 길)을 완료했다.	examine	object	Path of Crondis
 Walk the Path of Het?	Path of Het(헤트의 길)을 걷겠는가?	examine	object	Path of Het
 The Path of Het has been completed.	Path of Het(헤트의 길)을 완료했다.	examine	object	Path of Het
 A strange tablet with a hole in the middle.	가운데에 구멍이 난 이상한 석판이다.	examine	object	Strange tablet
@@ -21835,10 +21835,10 @@ A gang of gnome children.	노움 아이들 패거리다.	examine	object	Birthday
 A true master of disguise.	진정한 변장의 달인이다.	examine	object	Birthday plushies
 Crack the Clue II was a community event released on 22nd February, 2019.	Crack the Clue II(크랙 더 클루 II)는 2019년 2월 22일에 열린 커뮤니티 이벤트였다.	examine	object	Crack the Clue II Display
 The Mimic and beginner clues were released as a part of the Treasure Trail expansion on 11th April, 2019.	The Mimic(미믹)과 초급 단서는 2019년 4월 11일 Treasure Trail(보물찾기) 확장의 일부로 출시되었다.	examine	object	Mimic Display
-House Hosidius in Kourend was reworked graphically on 23rd May, 2019.	Kourend(쿠렌드)의 House Hosidius(호시디우스 가문)는 2019년 5월 23일에 그래픽이 개편되었다.	examine	object	Hosidius Rework Display
+House Hosidius in Kourend was reworked graphically on 23rd May, 2019.	Kourend(쿠렌드)의 House Hosidius(호시디우스 가문)은 2019년 5월 23일에 그래픽이 개편되었다.	examine	object	Hosidius Rework Display
 The Forthos dungeon was released on 4th July, 2019.	Forthos dungeon(포르토스 던전)은 2019년 7월 4일에 출시되었다.	examine	object	Forthos Dungeon Display
 The Last Man Standing minigame was reworked and released on 29th August, 2019.	Last Man Standing(라스트 맨 스탠딩) 미니게임은 2019년 8월 29일에 개편되어 출시되었다.	examine	object	LMS Rework Display
-The Fremennik Exiles is a master level quest that was released on 26th September, 2019.	The Fremennik Exiles(프레메닉 추방자들)는 2019년 9월 26일에 출시된 마스터 난이도 퀘스트다.	examine	object	Jormungand Display
+The Fremennik Exiles is a master level quest that was released on 26th September, 2019.	The Fremennik Exiles(프레메닉 추방자들)은 2019년 9월 26일에 출시된 마스터 난이도 퀘스트다.	examine	object	Jormungand Display
 The Twisted League was the first league and was released on 14th November, 2019.	Twisted League(뒤틀린 리그)는 첫 번째 리그로, 2019년 11월 14일에 출시되었다.	examine	object	Twisted League Display
 The Nightmare of Ashihama was released on 6th February, 2020.	The Nightmare of Ashihama(아시하마의 나이트메어)는 2020년 2월 6일에 출시되었다.	examine	object	The Nightmare of Ashihama Display
 The Song of the Elves is a grandmaster quest which unlocked access to Prifddinas on 25th July, 2019.	Song of the Elves(엘프의 노래)는 2019년 7월 25일에 Prifddinas(프리프디나스)로 가는 길을 연 그랜드마스터 난이도 퀘스트다.	examine	object	Prifddinas Display
@@ -21850,27 +21850,27 @@ The Soul Wars minigame was the first in a series of backported pieces of content
 Sins of the Father is a Master quest which unlocked access to Darkmeyer on 4th June, 2020.	Sins of the Father(아버지의 죄)는 2020년 6월 4일에 Darkmeyer(다크마이어)로 가는 길을 연 마스터 난이도 퀘스트다.	examine	object	Darkmeyer Display
 The Shades of Mort'ton rework was released on 27th January, 2021.	Shades of Mort'ton(모트톤의 셰이드) 개편은 2021년 1월 27일에 출시되었다.	examine	object	Shades of Mort'ton Rework Display
 The Trailblazer League was the second league and was released on 28th October, 2020.	Trailblazer League(트레일블레이저 리그)는 두 번째 리그로, 2020년 10월 28일에 출시되었다.	examine	object	Trailblazer League Display
-Tzhaar-Ket-Rak's challenges which introduced the ability to fight 6 jads at once was released on 3rd March, 2021.	Jad(자드) 6마리와 한꺼번에 싸울 수 있게 해 준 Tzhaar-Ket-Rak's challenges(츠하르-켓-락의 도전)는 2021년 3월 3일에 출시되었다.	examine	object	Tzhaar-Ket-Rak Display
-Shooting Stars is a distraction and diversion mining activity which was released on 17th March, 2021.	Shooting Stars(별똥별)는 2021년 3월 17일에 출시된 채광 기분 전환 활동이다.	examine	object	Shooting Star Display
+Tzhaar-Ket-Rak's challenges which introduced the ability to fight 6 jads at once was released on 3rd March, 2021.	Jad(자드) 6마리와 한꺼번에 싸울 수 있게 해 준 Tzhaar-Ket-Rak's challenges(츠하르-켓-락의 도전)은 2021년 3월 3일에 출시되었다.	examine	object	Tzhaar-Ket-Rak Display
+Shooting Stars is a distraction and diversion mining activity which was released on 17th March, 2021.	Shooting Stars(별똥별)은 2021년 3월 17일에 출시된 채광 기분 전환 활동이다.	examine	object	Shooting Star Display
 Tempoross the fishing skill boss was released on 24th March, 2021.	낚시 스킬 보스 Tempoross(템포로스)는 2021년 3월 24일에 출시되었다.	examine	object	Tempoross Display
-Below Ice Mountain is a free-to-play quest which was released on 14th April, 2021.	Below Ice Mountain(얼음 산 아래)은 2021년 4월 14일에 출시된 무료 퀘스트다.	examine	object	Below Ice Mountain Display
+Below Ice Mountain is a free-to-play quest which was released on 14th April, 2021.	Below Ice Mountain(얼음 산 아래)는 2021년 4월 14일에 출시된 무료 퀘스트다.	examine	object	Below Ice Mountain Display
 The Combat Achievements system was released on 21st July, 2021.	Combat Achievements(전투 업적) 시스템은 2021년 7월 21일에 출시되었다.	examine	object	Combat Achievements Display
-A Kingdom Divided is a master level quest which was released on 16th June, 2021.	A Kingdom Divided(분열된 왕국)는 2021년 6월 16일에 출시된 마스터 난이도 퀘스트다.	examine	object	A Kingdom Divided Display
+A Kingdom Divided is a master level quest which was released on 16th June, 2021.	A Kingdom Divided(분열된 왕국)은 2021년 6월 16일에 출시된 마스터 난이도 퀘스트다.	examine	object	A Kingdom Divided Display
 Deadman: Reborn was a seasonal event released on 25th August, 2021.	Deadman: Reborn(데드맨: 리본)은 2021년 8월 25일에 열린 시즌 이벤트였다.	examine	object	Deadman: Reborn Display
 The Group Ironman gamemode was released on 6th October, 2021.	Group Ironman(그룹 아이언맨) 게임 모드는 2021년 10월 6일에 출시되었다.	examine	object	Group Ironman Display
 Nex: The Fifth General was released and added to the Godwars Dungeon on 5th January, 2022.	Nex(넥스): The Fifth General(다섯 번째 장군)은 2022년 1월 5일에 출시되어 Godwars Dungeon(갓워즈 던전)에 추가되었다.	examine	object	Nex Display
 The Shattered Relics League was the third league and was released on 19th January, 2022.	Shattered Relics League(산산조각 난 유물 리그)는 세 번째 리그로, 2022년 1월 19일에 출시되었다.	examine	object	Shattered League Display
-Land of the Goblins is an experienced level quest and was released on 9th February, 2022.	Land of the Goblins(고블린의 땅)는 2022년 2월 9일에 출시된 숙련자 난이도 퀘스트다.	examine	object	A Goblin
+Land of the Goblins is an experienced level quest and was released on 9th February, 2022.	Land of the Goblins(고블린의 땅)은 2022년 2월 9일에 출시된 숙련자 난이도 퀘스트다.	examine	object	A Goblin
 Phosani's Nightmare was released on 30th June, 2021.	Phosani's Nightmare(포사니의 나이트메어)는 2021년 6월 30일에 출시되었다.	examine	object	Phosani's Nightmare Display
 The Revenant Maledictus boss was released and added to the revenant caves on 2nd February, 2022.	Revenant Maledictus(망령 말레딕투스) 보스는 2022년 2월 2일에 출시되어 망령 동굴에 추가되었다.	examine	object	Revenant Maledictus Display
 The Temple of the Eye quest which unlocked access to the Guardians of the Rift minigame was released on 23rd March, 2022.	Guardians of the Rift(균열의 수호자) 미니게임으로 가는 길을 연 The Temple of the Eye(눈의 신전) 퀘스트는 2022년 3월 23일에 출시되었다.	examine	object	Guardians of the Rift Display
 The Giants' Foundry minigame was released on 8th June, 2022.	Giants' Foundry(거인의 주조소) 미니게임은 2022년 6월 8일에 출시되었다.	examine	object	Giants' Foundry Display
-The Emir's Arena is a ranked pvp minigame which was released on 13th July, 2022.	Emir's Arena(에미르의 경기장)는 2022년 7월 13일에 출시된 랭크 PvP 미니게임이다.	examine	object	Emir's Arena Display
+The Emir's Arena is a ranked pvp minigame which was released on 13th July, 2022.	Emir's Arena(에미르의 경기장)은 2022년 7월 13일에 출시된 랭크 PvP 미니게임이다.	examine	object	Emir's Arena Display
 The Unranked Group Ironman gamemode was released on 26th May, 2022.	Unranked Group Ironman(비랭크 그룹 아이언맨) 게임 모드는 2022년 5월 26일에 출시되었다.	examine	object	Unranked Group Ironman Display
-The Secrets of the North is a master level quest which introduced the Phantom Muspah boss and was released on 11th January, 2023.	The Secrets of the North(북부의 비밀)는 Phantom Muspah(팬텀 무스파) 보스를 선보인 마스터 난이도 퀘스트로, 2023년 1월 11일에 출시되었다.	examine	object	Phantom Muspah Display
+The Secrets of the North is a master level quest which introduced the Phantom Muspah boss and was released on 11th January, 2023.	The Secrets of the North(북부의 비밀)은 Phantom Muspah(팬텀 무스파) 보스를 선보인 마스터 난이도 퀘스트로, 2023년 1월 11일에 출시되었다.	examine	object	Phantom Muspah Display
 Quest Speedrunning is a minigame which was released on 12th October, 2022.	Quest Speedrunning(퀘스트 스피드런)은 2022년 10월 12일에 출시된 미니게임이다.	examine	object	Quest Speedrunning Display
 The Venenatis, Callisto and Vet'ion bosses were reworked on 25th January, 2023.	Venenatis(베네나티스), Callisto(칼리스토), Vet'ion(베티온) 보스는 2023년 1월 25일에 개편되었다.	examine	object	Wilderness Boss Display
-Raids III: Tombs of Amascut was released on 24th August, 2022.	Raids III(레이드 III): Tombs of Amascut(아마스컷의 무덤)는 2022년 8월 24일에 출시되었다.	examine	object	Tombs of Amascut Display
+Raids III: Tombs of Amascut was released on 24th August, 2022.	Raids III(레이드 III): Tombs of Amascut(아마스컷의 무덤)은 2022년 8월 24일에 출시되었다.	examine	object	Tombs of Amascut Display
 Oh, it's just a prop. I can't leave this way.	아, 그냥 소품이다. 이쪽으로는 나갈 수 없다.	examine	object	Old passageway
 Happy birthday!	생일 축하해!	examine	object	Banner
 A Yommi tree.	Yommi tree(요미 나무)다.	examine	object	Yommi tree
@@ -22343,7 +22343,7 @@ That's a concerning amount of blood...	피가 꽤 걱정스러울 만큼 많다.
 An ancient statue.	고대의 조각상이다.	examine	object	Statue
 Magical flames eminate from this brazier.	이 화로에서 마법의 불꽃이 피어오른다.	examine	object	Blue Moon Brazier
 An ancient statue of a jaguar.	jaguar(재규어)를 본뜬 고대 조각상이다.	examine	object	Statue
-An ancient statue of an eagle.	eagle(독수리)을 본뜬 고대 조각상이다.	examine	object	Statue
+An ancient statue of an eagle.	eagle(독수리)를 본뜬 고대 조각상이다.	examine	object	Statue
 An ancient statue of a serpent.	뱀을 본뜬 고대 조각상이다.	examine	object	Statue
 It's decorated with fine stonework depictions of the moon in its various phases.	차고 기우는 달의 여러 모습이 정교한 석공 장식으로 새겨져 있다.	examine	object	Lunar Chest
 Its leaves are damp with dew.	잎이 이슬에 젖어 있다.	examine	object	Bush
@@ -22487,21 +22487,21 @@ Ideal for cooking things.	요리하기에 딱 좋다.	examine	object	Oven
 A local fishing boat.	이 지역의 고기잡이배다.	examine	object	Fishing boat
 Helps steal fish from the ocean.	바다에서 물고기를 훔쳐 오는 걸 돕는다.	examine	object	Crane
 Something would normally be displayed here.	원래 여기에 뭔가 전시되어 있었을 것이다.	examine	object	Empty display
-A display showing Dizana's Quiver.	Dizana's Quiver(디자나의 화살통)를 보여 주는 전시물이다.	examine	object	Dizana's Quiver
-A display showing the Crown of Ralos.	Crown of Ralos(랄로스의 왕관)를 보여 주는 전시물이다.	examine	object	Crown of Ralos
-A display showing the Cloak of Ranul.	Cloak of Ranul(라눌의 망토)을 보여 주는 전시물이다.	examine	object	Cloak of Ranul
+A display showing Dizana's Quiver.	Dizana's Quiver(디자나의 화살통)을 보여 주는 전시물이다.	examine	object	Dizana's Quiver
+A display showing the Crown of Ralos.	Crown of Ralos(랄로스의 왕관)을 보여 주는 전시물이다.	examine	object	Crown of Ralos
+A display showing the Cloak of Ranul.	Cloak of Ranul(라눌의 망토)를 보여 주는 전시물이다.	examine	object	Cloak of Ranul
 Normally this display would show the armour of a Knight of Varlamore.	원래 이 전시물에는 Knight of Varlamore(바를라모어의 기사)의 갑옷이 있었을 것이다.	examine	object	Empty Display
 A display showing some Kualti daggers.	Kualti dagger(쿠알티 단검) 몇 자루를 보여 주는 전시물이다.	examine	object	Kualti Daggers
-A display showing a Kualti dagger.	Kualti dagger(쿠알티 단검)를 보여 주는 전시물이다.	examine	object	Kualti Dagger
+A display showing a Kualti dagger.	Kualti dagger(쿠알티 단검)을 보여 주는 전시물이다.	examine	object	Kualti Dagger
 A shield displaying the sigil of Kourend.	Kourend(쿠렌드)의 인장이 새겨진 방패다.	examine	object	Kourend Shield
 A display showing a copy of the Royal Accord of Twill.	Royal Accord of Twill(트윌 왕실 협정)의 사본을 보여 주는 전시물이다.	examine	object	Royal Accord of Twill
-A display showing an ancient icon of Ralos.	고대의 icon of Ralos(랄로스의 성상)를 보여 주는 전시물이다.	examine	object	Icon of Ralos
+A display showing an ancient icon of Ralos.	고대의 icon of Ralos(랄로스의 성상)을 보여 주는 전시물이다.	examine	object	Icon of Ralos
 A column depicting key events in Kourend's history.	Kourend(쿠렌드) 역사의 주요 사건을 새긴 원기둥이다.	examine	object	Column of Kourend
 A column depicting Imafore's Betrayal.	Imafore's Betrayal(이마포어의 배신)을 새긴 원기둥이다.	examine	object	Column of Imafore's Betrayal
 Normally this display would show a model of Tempestus.	원래 이 전시물에는 Tempestus(템페스투스)의 모형이 있었을 것이다.	examine	object	Empty display
 A display showing the Armour of the Cloud Titan.	Armour of the Cloud Titan(구름 거인의 갑옷)을 보여 주는 전시물이다.	examine	object	Armour of the Cloud Titan
-A display showing a statue built by the Old Ones.	Old Ones(고대인)가 만든 조각상을 보여 주는 전시물이다.	examine	object	Old One Statue
-A display showing the Fang of the Colossal Wyrm.	Fang of the Colossal Wyrm(거대한 웜의 송곳니)을 보여 주는 전시물이다.	examine	object	Fang of the Colossal Wyrm
+A display showing a statue built by the Old Ones.	Old Ones(고대인)이 만든 조각상을 보여 주는 전시물이다.	examine	object	Old One Statue
+A display showing the Fang of the Colossal Wyrm.	Fang of the Colossal Wyrm(거대한 웜의 송곳니)를 보여 주는 전시물이다.	examine	object	Fang of the Colossal Wyrm
 A statue of King Maximus. It was he who ordered the construction of the Fortis Colosseum.	King Maximus(막시무스 왕)의 조각상이다. Fortis Colosseum(포르티스 콜로세움)의 건설을 명한 사람이 바로 그였다.	examine	object	Statue of King Maximus
 A statue of the mighty Sun Queen, Zyanyi Arkan.	위대한 태양 여왕 Zyanyi Arkan(지아니 아르칸)의 조각상이다.	examine	object	Statue of Queen Zyanyi
 A statue of the glorious Prince of Varlamore, Itzla Arkan.	영광스러운 Varlamore(바를라모어)의 왕자 Itzla Arkan(이츨라 아르칸)의 조각상이다.	examine	object	Statue of Prince Itzla
@@ -22553,8 +22553,8 @@ It leads to an underground tunnel.	지하 터널로 이어진다.	examine	object
 A cell gate.	감방 문이다.	examine	object	Cell gate
 A wanted poster.	수배 전단이다.	examine	object	Wanted poster
 A wanted poster asking for information on the individual known as the Dark Squall.	Dark Squall(다크 스퀄)이라 불리는 자에 대한 정보를 구하는 수배 전단이다.	examine	object	Wanted poster
-There is a snapdragon seed on it.	위에 snapdragon seed(금어초 씨앗)가 놓여 있다.	examine	object	Counter
-There is an enriched snapdragon seed on it.	위에 enriched snapdragon seed(농축된 금어초 씨앗)가 놓여 있다.	examine	object	Counter
+There is a snapdragon seed on it.	위에 snapdragon seed(금어초 씨앗)이 놓여 있다.	examine	object	Counter
+There is an enriched snapdragon seed on it.	위에 enriched snapdragon seed(농축된 금어초 씨앗)이 놓여 있다.	examine	object	Counter
 A snow-covered ledge.	눈 덮인 바위 턱이다.	examine	object	Ledge
 The ledge of a roof.	지붕 가장자리다.	examine	object	Ledge
 A specially prepared patch.	특별히 준비해 둔 밭이다.	examine	object	Herb patch
@@ -22633,7 +22633,7 @@ It's burning with an ethereal white light.	영묘한 흰빛으로 타오르고 �
 It's burning with an ethereal blue light.	영묘한 푸른빛으로 타오르고 있다.	examine	object	Brazier
 A powerful energy surrounds it.	강력한 에너지가 감싸고 있다.	examine	object	Mysterious Stone
 It's disappearing!	사라지고 있다!	examine	object	Stone of Jas
-This plinth once held the great Stone of Jas.	한때 위대한 Stone of Jas(자스의 돌)가 놓여 있던 좌대다.	examine	object	Plinth
+This plinth once held the great Stone of Jas.	한때 위대한 Stone of Jas(자스의 돌)이 놓여 있던 좌대다.	examine	object	Plinth
 An exit out of the crawl space.	좁은 통로에서 빠져나가는 출구다.	examine	object	Hole
 A section of broken wall.	부서진 벽의 일부다.	examine	object	Broken wall
 A depiction of a statuesque human bearing a weighty tome upon his shoulders.	묵직한 책을 어깨에 짊어진, 조각상 같은 사람을 그린 그림이다.	examine	object	Painting
@@ -22764,15 +22764,15 @@ Some complicated-looking alchemical machinery.	복잡해 보이는 연금술 기
 Mix-maxxing.	섞어서 최적화하는 중. 믹스맥싱이다.	examine	object	Mixer
 Carries finished products off to the packing area.	완성품을 포장 구역으로 실어 나른다.	examine	object	Conveyor belt
 Where the magic happens.	마법이 일어나는 곳이다.	examine	object	Mixing vessel (Empty)
-The mixing vessel. It contains Mammoth-might mix.	혼합 용기다. Mammoth-might mix(매머드 위력 혼합물)가 들어 있다.	examine	object	Mixing vessel (Mammoth-might mix)
+The mixing vessel. It contains Mammoth-might mix.	혼합 용기다. Mammoth-might mix(매머드 위력 혼합물)이 들어 있다.	examine	object	Mixing vessel (Mammoth-might mix)
 The mixing vessel. It contains Mystic mana amalgam.	혼합 용기다. Mystic mana amalgam(신비한 마나 아말감)이 들어 있다.	examine	object	Mixing vessel (Mystic mana amalgam)
-The mixing vessel. It contains Marley's moonlight.	혼합 용기다. Marley's moonlight(말리의 달빛)가 들어 있다.	examine	object	Mixing vessel (Marley's moonlight)
+The mixing vessel. It contains Marley's moonlight.	혼합 용기다. Marley's moonlight(말리의 달빛)이 들어 있다.	examine	object	Mixing vessel (Marley's moonlight)
 The mixing vessel. It contains Alco-augmentator.	혼합 용기다. Alco-augmentator(알코 증강제)가 들어 있다.	examine	object	Mixing vessel (Alco-augmentator)
 The mixing vessel. It contains Aqualux amalgam.	혼합 용기다. Aqualux amalgam(아쿠아룩스 아말감)이 들어 있다.	examine	object	Mixing vessel (Aqualux amalgam)
-The mixing vessel. It contains Azure aura mix.	혼합 용기다. Azure aura mix(하늘빛 기운 혼합물)가 들어 있다.	examine	object	Mixing vessel (Azure aura mix)
+The mixing vessel. It contains Azure aura mix.	혼합 용기다. Azure aura mix(하늘빛 기운 혼합물)이 들어 있다.	examine	object	Mixing vessel (Azure aura mix)
 The mixing vessel. It contains Liplack liquor.	혼합 용기다. Liplack liquor(립락 리큐어)가 들어 있다.	examine	object	Mixing vessel (Liplack liquor)
 The mixing vessel. It contains Anti-leech lotion.	혼합 용기다. Anti-leech lotion(거머리 방지 로션)이 들어 있다.	examine	object	Mixing vessel (Anti-leech lotion)
-The mixing vessel. It contains Megalite liquid.	혼합 용기다. Megalite liquid(메갈라이트 용액)가 들어 있다.	examine	object	Mixing vessel (Megalite liquid)
+The mixing vessel. It contains Megalite liquid.	혼합 용기다. Megalite liquid(메갈라이트 용액)이 들어 있다.	examine	object	Mixing vessel (Megalite liquid)
 The mixing vessel. It contains Mixalot.	혼합 용기다. Mixalot(믹살롯)이 들어 있다.	examine	object	Mixing vessel (Mixalot)
 The clusters of plump leaves glisten in the light.	통통한 잎 무더기가 빛을 받아 반짝인다.	examine	object	Fern
 Doesn't look like its ready to be picked yet.	아직 딸 때가 안 된 것 같다.	examine	object	Young digweed
