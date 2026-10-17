@@ -6115,11 +6115,11 @@ Man	수동	interface	mainTabs	musicTab
 Rand	무작위	interface	mainTabs	musicTab
 Filters	필터	interface	mainTabs	prayerTab
 Prayer Filters	기도 필터	interface	mainTabs	prayerTab
-Show lower tiers of tiered prayers	단계별 기도의 하위 단계 표시	interface	mainTabs	prayerTab
+Show lower tiers of tiered prayers	하위 단계 기도 표시	interface	mainTabs	prayerTab
 Show tiered prayers even if multi-skill prayers are available	복합 스킬 기도를 쓸 수 있어도 단계별 기도 표시	interface	mainTabs	prayerTab
 Show <colNum0>Rapid Healing</col> prayers	<colNum0>빠른 치유</col> 기도 표시	interface	mainTabs	prayerTab
-Show prayers you lack the Prayer level to activate	기도 레벨이 부족해 활성화할 수 없는 기도 표시	interface	mainTabs	prayerTab
-Show prayers you lack the requirements to activate	요구 조건이 부족해 활성화할 수 없는 기도 표시	interface	mainTabs	prayerTab
+Show prayers you lack the Prayer level to activate	기도 레벨이 부족한 기도 표시	interface	mainTabs	prayerTab
+Show prayers you lack the requirements to activate	요구 조건이 부족한 기도 표시	interface	mainTabs	prayerTab
 Level <Num0><br>Redemption<br>Heals you when damaged<br>and health falls<br>below <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	레벨 <Num0><br>Redemption(구원)<br>피해를 입어 체력이<br><Num1>% 미만으로<br>떨어지면 체력을 회복합니다.<br>(소모: <Num3>초마다 <Num2>점)	interface	mainTabs	prayerTab
 Level <Num0><br>Protect Item<br>Keep <Num1> extra item if you die.<br>(Drain: <Num2>pt per <Num3>s)	레벨 <Num0><br>Protect Item(아이템 보호)<br>사망 시 아이템을 <Num1>개 더 지킵니다.<br>(소모: <Num3>초마다 <Num2>점)	interface	mainTabs	prayerTab
 Level <Num0><br>Incredible Reflexes<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	레벨 <Num0><br>Incredible Reflexes(놀라운 반사신경)<br>공격을 <Num1>% 높입니다.<br>(소모: <Num3>초마다 <Num2>점)	interface	mainTabs	prayerTab
